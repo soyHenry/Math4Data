@@ -1,8 +1,8 @@
 <img  src='../logo.png' height='70px'>
 
-#Introducción a Cálculo I
+# Introducción a Cálculo I
 
-##Filosofia de este curso
+## Filosofia de este curso
 
 Si la matemática nunca fue lo tuyo, te invitamos a olvidar lo aprendido y a “empezar de cero”! El objetivo de este curso es de revisar conceptos fundamentales que van a ayudarte a entender mejor temas claves a la data/ data science como lo son la probabilidad, estadística o machine learning. 
 Como hoy en día los cálculos los hace la computadora, y estamos conscientes de ello, no vamos a insistir en la resolución de ejercicios complejos que no solo lleva tiempo sino que puede traer frustración innecesaria. 
@@ -12,7 +12,7 @@ Por último, el fin de este documento es presentar un temario variado de concept
 Vamos!
 
 
-##Temario
+## Temario
 
 * Conceptos generales
 * Funciones
@@ -23,9 +23,9 @@ Vamos!
 * Operar con log, raiz, potencias
 * Función discreta: concepto
 
-##Conceptos generales
+## Conceptos generales
 
-###Tipos de números
+### Tipos de números
 
 Según su naturaleza; existen los siguientes tipos de números
 
