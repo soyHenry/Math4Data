@@ -49,7 +49,7 @@ Si buscas en internet vas a encontrar más categorías como los complejos, imagi
 
 En el siguiente grafico vas a encontrar las relaciones entre los conjuntos mencionados.
 
-<img  src='./figuras/type_num.png' height='70px'>
+<img  src='./figuras/type_num.png' height='370px'>
 
 ### Porcentajes
 
@@ -90,17 +90,19 @@ Un ángulo se puede definir como la medida de abertura entre dos rectas. El conc
 
 En grados, una abertura nula corresponde a 0°. Cuando dos rectas tienen un ángulo de 0, se dice que son paralelas. Luego podemos ir agrandando el ángulo hasta 90°, donde los dos vectores son perpendiculares (ver en la imagen). Un cuadrado tiene cuatro ángulos de 90° que se llaman también ángulos rectos. Si seguimos agrandando en un momento volvemos a crear una horizontal, que es equivalente a dos veces una abertura recta o sea 180°. Con esta lógica, el ángulo se puede seguir agrandando hasta la posición inicial habiendo recorrido 360°. 360° corresponde entonces a la misma posición que 0°, pero indicando que se ha recorrido el círculo entero una vez (lo cual tiene aplicaciones en casos donde se analizan por ejemplo movimientos en función del tiempo).
 
-<img  src='./figuras/angles.png' height='70px'>
+<img  src='./figuras/angles.png' height='370px'>
 
 Solo porque nociones como seno y coseno son bastante usadas en cálculo y álgebra, vamos a refrescar los conceptos yendo a los puntos claves. 
 
 Tomando cualquier ángulo entre dos rectas del ejemplo anterior, podemos trazar una recta (azul) más entre ambas y formar un triángulo. 
 
-<img  src='./figuras/angle.png' height='70px'>
+<img  src='./figuras/angle.png' height='170px'>
 
 Si además la recta que trazamos forma un ángulo recto con alguna de las existentes (señalado en el ejemplo con un cuadradito), tenemos lo que se llama un triángulo recto el cual es muy utilizado entre otras cosas, por su seno y coseno.
 
 Esquema de un ángulo recto y el nombre que se les da a sus lados:
+
+<img  src='./figuras/triangle.png' height='70px'>
 
 
 Cada uno de los lados (X,Y,H) tienen una medida (por ejemplo, en centímetros). En matemática, cuando nos referimos a la medida de un segmento usamos || alrededor de su nombre. En este caso, |X| es la medida del lado que hemos llamado X, por ejemplo 1,5 cm. Con estos 
