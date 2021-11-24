@@ -102,7 +102,7 @@ Si además la recta que trazamos forma un ángulo recto con alguna de las existe
 
 Esquema de un ángulo recto y el nombre que se les da a sus lados:
 
-<img  src='./figuras/triangle.png' height='70px'>
+<img  src='./figuras/triangle.png' height='370px'>
 
 
 Cada uno de los lados (X,Y,H) tienen una medida (por ejemplo, en centímetros). En matemática, cuando nos referimos a la medida de un segmento usamos || alrededor de su nombre. En este caso, |X| es la medida del lado que hemos llamado X, por ejemplo 1,5 cm. Con estos 
