@@ -124,7 +124,68 @@ Entonces, el seno(90°)=1 y el coseno(90°)=0. En la sección Gráficos, veremos
 
 ## Funciones
 
+### Definición
+
 Uno de los conceptos más importante del análisis matemático, y sin dudas el más importante de este módulo, es el de **función**. 
+Una **función** es una relación entre elementos de **entrada** y elementos de **salida**. 
+También podemos pensar a una función como una fábrica 
+a la cual entran elementos y salen otros. 
+Por ejemplo, una fábrica de galletitas utiliza 10gr de azúcar por paquete de 20. Por cada gramo de azúcar que entra a la fábrica, sale una galletita y cada 20 galletitas, un paquete.
+
+Esta relación se puede escribir en forma de tabla de la siguiente forma:
+
+<img  src='./figuras/table1.png' height='370px'>
+
+Para explicar el trabajo de esta fábrica de la manera más sencilla posible, 
+nos conviene extraer la relación de manera numérica. 
+En este caso, podemos ver que independientemente de la cantidad de gramos de azúcar que entran,
+el número de galletitas que salen es el doble de esa cantidad:
+
+i- **galletitas = gramos_azúcar * 2**
+
+En cuanto a cantidad de paquetes, la relación es de
+
+ii- **paquetes = galletitas / 10**
+
+Para obtener el numero de paquetes en función de la cantidad de azúcar y no del número de gallletitas,
+podemos reemplazar [**galletitas**] por su equivalente [**gramos_azúcar * 2**] y nos queda
+
+iii- **paquetes = [gramos_azúcar * 2] / 10 = gramos_azúcar / 5**
+
+La operación que acabamos de realizar se llama también **composición de funciones** y tiene muchas aplicaciones en
+la vida real. Pueden leer más sobre funciones compuestas empezando por https://es.wikipedia.org/wiki/Funci%C3%B3n_compuesta.
+
+Siguiendo con la idea de simplificar las expresiones, en matemática en general usamos la manera más corta posible
+de referirnos a las cosas, lo cual es en general su primera letra: **galletitas = g**, **gramos_azúcar = a**
+y **paquetes = p**. Entonces
+
+iv- **g = 2 * a** .
+
+Para los paquetes podemos definir dos relaciones, en función de gramos de azúcar y en función de galletitas.
+Para aclarar en función de qué cantidad esta definida la relación, se usan paréntesis:
+
+v- **p(g) = g / 10** 
+
+y 
+
+**p(a) = a / 5**
+
+Pasando de fracciones a número decimal, obtenemos
+
+vi- **p(g) = 0,1 * g** 
+
+y 
+
+**p(a) = 0,2 * a**
+
+### Dominio e imágen
+
+*Las relaciones que definimos hasta ahora, en principio, no definen que rango permite en entrada.
+Si entran 10M de gramos en un dia, la fabrica satura y no puede fabricar al mismo ritmo*
+
+*concepto de definicion de dominiom de imagen
+de paso funcion partida*
+
 
 ## Gráficos
 ## Ecuación de la recta
