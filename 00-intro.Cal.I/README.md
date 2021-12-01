@@ -134,7 +134,7 @@ Por ejemplo, una fábrica de galletitas utiliza 10gr de azúcar por paquete de 2
 
 Esta relación se puede escribir en forma de tabla de la siguiente forma:
 
-<img  src='./figuras/table1.png' height='100px'>
+<img  src='./figuras/table1.png' height='150px'>
 
 Para explicar el trabajo de esta fábrica de la manera más sencilla posible, 
 nos conviene extraer la relación de manera numérica. 
