@@ -147,7 +147,7 @@ En cuanto a cantidad de paquetes, la relación es de
 
 ii- **paquetes = galletitas / 10**
 
-Para obtener el numero de paquetes en función de la cantidad de azúcar y no del número de gallletitas,
+Para obtener el numero de paquetes en función de la cantidad de azúcar y no del número de galletitas,
 podemos reemplazar [**galletitas**] por su equivalente [**gramos_azúcar * 2**] y nos queda
 
 iii- **paquetes = [gramos_azúcar * 2] / 10 = gramos_azúcar / 5**
@@ -180,11 +180,33 @@ y
 
 ### Dominio e imágen
 
-*Las relaciones que definimos hasta ahora, en principio, no definen que rango permite en entrada.
-Si entran 10M de gramos en un dia, la fabrica satura y no puede fabricar al mismo ritmo*
+Las relaciones que definimos hasta ahora, en principio, no definen que rango permite en entrada.
+Por ejemplo, si entran 10M de gramos en un dia, la fábrica satura y no puede fabricar al mismo 
+ritmo que antes. Para establecer en que rango de entrada una función es válida se define su **dominio**.
+En nuestro ejemplo, podemos decir que el dominio de iv es D={0,10M} (de 0 a 10M) ya que 
+valores negativos no tienen sentido en este caso y a partir de 10M la fabrica satura y fabrica mas 
+lentamente. Otro concepto importante es el de **imagen**. La imagen de una funcion es el rango de datos de salida
+de la misma y depende del dominio. Para iv, con el dominio que hemos definido, la Im={0,20M}.
 
-*concepto de definicion de dominiom de imagen
-de paso funcion partida*
+Toda función posee un dominio e imagen natural que pueden ser luego restringidos por razones prácticas.
+En nuestro ejemplo, el dominio natural es Dom={-inf, inf}=R (se lee de menos infinito a infinito, que es equivalente a R, todos los numero reales existentes) ya que la funcion admite como entrada cualquier
+número. Un contra ejemplo sería la función **y = 1/x** ya que ESTA PROHIBIDO dividir por cero. Entonces,
+el dominio natural de esta función es Dom=R-{0} (se lee todos los reales menos el 0).
+
+### Función partida
+
+Como hemos visto, toda función tiene su dominio e imagen naturales sobre lo que se puede definir un dominio igual o mas restrictivo
+en función del fenomeno que se desea describir. A veces, un fenomeno es mas complejo y se comporta de manera diferente
+para distintos rangos de entrada. Para estos casos, podemos hacer uso de **funciones partidas**.
+
+<img  src='./figuras/funcion_partida.png' height='150px'>
+
+Como dijimos, la fábrica a partir de 10M g de azúcar ya no puede fabricar al mismo ritmo, fabricando menos 
+y desperdiciando azúcar. Como vemos en la definición, la fábrica no acepta mas de 20M g de azúcar.
+
+Con el concepto de dominio e imagen, podemos definir: 
+"Una función matemática es una relación que se establece entre dos conjuntos, a través de la cual a cada 
+elemento del primer conjunto (dominio) se le asigna un único elemento del segundo conjunto (imagen) o ninguno. "
 
 
 ## Gráficos
