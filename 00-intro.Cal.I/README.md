@@ -224,15 +224,15 @@ La variable que se representa en el eje horizontal se llama variable independien
 letra x) mientras que la que se representa en el eje vertical se llama variable dependiente (y muchas veces la van a encontrar
 con el nombre de y).
 
-*Representación de un punto en el eje de coordenadas*
+**Representación de un punto en el eje de coordenadas**
 
 <img  src='./figuras/punto.png' height='150px'>
 
-*Representación de la relación g(a) = 2 * a*
+**Representación de la relación g(a) = 2 * a**
 
 <img  src='./figuras/recta_grafico.png' height='150px'>
 
-*Representación de la función compuesta que define g(a) *
+**Representación de la función compuesta que define g(a)**
 
 <img  src='./figuras/f_compuesta_grafico.png' height='150px'>
 
