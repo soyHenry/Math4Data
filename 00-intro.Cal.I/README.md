@@ -201,8 +201,10 @@ para distintos rangos de entrada. Para estos casos, podemos hacer uso de **funci
 
 <img  src='./figuras/funcion_partida.png' height='150px'>
 
-Como dijimos, la fábrica a partir de 10M g de azúcar ya no puede fabricar al mismo ritmo, fabricando menos 
-y desperdiciando azúcar. Como vemos en la definición, la fábrica no acepta mas de 20M g de azúcar.
+Como dijimos, la fábrica a partir de 10M g de azúcar ya no puede fabricar al mismo ritmo. 
+Hasta 10M g fabrica 20M galletitas. Si recibe mas azúcar, el restante (a - 10M) va a ser procesado 
+menos eficazmente obteniendo solo 1 galletita por gramo y desperdiciando azúcar.
+Como vemos en la definición, la fábrica no acepta mas de 20M g de azúcar.
 
 Con el concepto de dominio e imagen, podemos definir: 
 "Una función matemática es una relación que se establece entre dos conjuntos, a través de la cual a cada 
@@ -210,8 +212,36 @@ elemento del primer conjunto (dominio) se le asigna un único elemento del segun
 
 
 ## Gráficos
+
+En teoría del cálculo, el gráfico de una función es el conjunto de puntos que resulta de asociar a cada elemento
+del dominio su imagen correspondiente. Podemos imaginar esta representación en formato de tabla como vimos al principio de la sección,
+donde cada linea representa un punto. 
+
+Para permitir una lectura mas rapida e inteligible del comportamiento de una función, es muy usual
+representar sus puntos en un **eje de coordenadas**.
+
+La variable que se representa en el eje horizontal se llama variable independiente (y se represetna muchas veces con la
+letra x) mientras que la que se representa en el eje vertical se llama variable dependiente (y muchas veces la van a encontrar
+con el nombre de y).
+
+*Representación de un punto en el eje de coordenadas*
+
+<img  src='./figuras/punto.png' height='150px'>
+
+*Representación de la relación g(a) = 2 * a*
+
+<img  src='./figuras/recta_grafico.png' height='150px'>
+
+*Representación de la función compuesta que define g(a) *
+
+<img  src='./figuras/f_compuesta_grafico.png' height='150px'>
+
+Como pueden imaginar, existen muchísimas otras maneras de representar visualmente la relación entre datos además del eje de coordenadas!
+
+
 ## Ecuación de la recta
 ## Continuidad
+### Límites
 ## Derivabilidad
 ## Operar con log, raiz, potencias
 ## Función discreta: concepto
