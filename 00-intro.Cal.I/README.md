@@ -240,6 +240,42 @@ Como pueden imaginar, existen muchísimas otras maneras de representar visualmen
 
 
 ## Ecuación de la recta
+
+La recta, su representación en el eje y su función asociada son de los elementos pas usados en la para representar 
+distintos fenómenos (con distintos niveles de aproximación) del mundo físico.
+
+Como vimos en nuestro ejemplo anterior, podemos modelizar la producción de galletitas de una fábrica en función 
+de los gramos de azúcar disponibles como **g(a) = 2 * a**. Su gráfica en ejes cartesianos tiene la forma:
+
+<img  src='./figuras/recta_grafico2.png' height='150px'>
+
+Como se puede ver, geométricamente esta función determina una **recta** que pasa por el origen 
+de coordenadas, representado por un punto rojo cuando a=0 y g=0, o (0,0).
+A diferencia de antes, donde habíamos definido un dominio mayor a cero (ya que no tiene sentido hablar de valores
+negativos de gramos de azúcar para este caso), ahora extendimos la gráfica de la recta a valores negativos de **a**,
+lo cual da como resultado valores negativos de **g**. Otro aspecto fundamental de la recta es su **inclinación**.
+Una inclinación de 0 da como resultado una recta horizontal, paralela al eje **x** (o **a** en este ejemplo).
+En este caso, la inclinación es de **2** ya que por cada incremento de una unidad de la variable independiente **a**,
+la variable dependiente **g** aumenta de 2. El valor de la inclinación, también llamada pendiente, puede aumentar indefinidamente.
+Cuando este valor "tiende a" o "se parece a" infinito (veremos el concepto de tendencia mas adelante)
+la recta resultante se parece a una vertical.
+
+EJERCICIOS: dibujar rectas
+es funcion o no
+por que 'se parece a' y no 'es'
+VIDEO; mas ejemplos de casos modelizados lineales
+
+Con estos conceptos, definimos la función que describe una recta como
+
+**y(x) = a * x + b**
+
+donde **a** corresponde a la **pendiente** y **b** se llama **coordenada al orígen** (y refiere al valor de la función que corresponde a x=0).
+
+La pendiente de una recta esta también intimamente relacionada con con ángulo que forma la recta con el eje horizontal, de la siguiente forma:
+
+**a = tan(ang)**
+
+<img  src='./figuras/pendiente.png' height='150px'>
 ## Continuidad
 ### Límites
 ## Derivabilidad
