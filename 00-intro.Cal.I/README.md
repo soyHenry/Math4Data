@@ -7,7 +7,11 @@
 Si la matemática nunca fue lo tuyo, te invitamos a olvidar lo aprendido y a “empezar de cero”! El objetivo de este curso es de revisar conceptos fundamentales que van a ayudarte a entender mejor temas claves a la data/ data science como lo son la probabilidad, estadística o machine learning. 
 Como hoy en día los cálculos los hace la computadora, y estamos conscientes de ello, no vamos a insistir en la resolución de ejercicios complejos que no solo lleva tiempo sino que puede traer frustración innecesaria. 
 Por ello, abordaremos los temas seleccionados desde lo conceptual, con ejemplos precisos e invitandote a abrir la mente hacia una nueva manera de aprender matemática.
-Por último, el fin de este documento es presentar un temario variado de conceptos que nos parecen importantes a tener en cuenta. Para que sea de fácil lectura, los temas no están desarrollados en gran profundidad. Animate a googlear los temas que te interesen o que necesiten más explicación!
+Por último, el fin de este documento es presentar un temario variado de conceptos que 
+nos parecen importantes a tener en cuenta. P
+ara que sea de fácil lectura, los temas no están desarrollados en gran profundidad. 
+Por ello, es imperativo consultar los materiales adicionales propuestos en cada sección.
+Además, te recomendamos fuertemente googlear los temas que te interesen o que necesiten más explicación!
 
 Vamos!
 
@@ -51,6 +55,11 @@ En el siguiente grafico vas a encontrar las relaciones entre los conjuntos menci
 
 <img  src='./figuras/type_num.png' height='370px'>
 
+**Material adicional:**
+* Lectura 1
+* Video 1
+
+
 ### Porcentajes
 
 Rápidamente, revisaremos cómo calcular porcentajes (o proporciones, o fracciones).
@@ -83,6 +92,11 @@ Por último, un porcentaje no es necesariamente un número menor. Por ejemplo, e
      2,3 * 2000 = 600
 
 o también “el doble (200%) más el 30%” o sea 2000*2+600.
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+
 
 ### Geometría: Ángulos y trigonometría 
 
@@ -121,6 +135,11 @@ Si H mide 1, X e Y miden imperativamente menos que 1 (tiene lógica!), por lo qu
 Si imaginamos <font color="pink"> ángulo </font> tan chico como sea posible (0°), entonces el lado Y desaparece (|Y|=0) y |X|=|H|=1. 
 Es decir, el seno(0°)=0 y el coseno(0°)=1. Con la misma lógica, si abrimos <span style="color:pink"> ángulo </span> hasta los 90° sucede lo contrario donde X desaparece (|X|=0) y |Y|=|H|=1. 
 Entonces, el seno(90°)=1 y el coseno(90°)=0. En la sección Gráficos, veremos qué forma tienen esas relaciones visualmente.
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+
 
 ## Funciones
 
@@ -210,6 +229,13 @@ Con el concepto de dominio e imagen, podemos definir:
 "Una función matemática es una relación que se establece entre dos conjuntos, a través de la cual a cada 
 elemento del primer conjunto (dominio) se le asigna un único elemento del segundo conjunto (imagen) o ninguno. "
 
+**video: mas ejemplos! puede ser la velocidad y algo que sube y baja
+mencionar variable dependiente, independiente**
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+
 
 ## Gráficos
 
@@ -238,6 +264,13 @@ con el nombre de y).
 
 Como pueden imaginar, existen muchísimas otras maneras de representar visualmente la relación entre datos además del eje de coordenadas!
 
+**video y ejercicios: mostrar mas funciones, diferentes dibujos
+ejercicios: hacer otros dibujos**
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+
 
 ## Ecuación de la recta
 
@@ -260,10 +293,10 @@ la variable dependiente **g** aumenta de 2. El valor de la inclinación, tambié
 Cuando este valor "tiende a" o "se parece a" infinito (veremos el concepto de tendencia mas adelante)
 la recta resultante se parece a una vertical.
 
-EJERCICIOS: dibujar rectas
+**EJERCICIOS: dibujar rectas
 es funcion o no
 por que 'se parece a' y no 'es'
-VIDEO; mas ejemplos de casos modelizados lineales
+VIDEO; mas ejemplos de casos modelizados lineales**
 
 Con estos conceptos, definimos la función que describe una recta como
 
@@ -276,8 +309,54 @@ La pendiente de una recta esta también intimamente relacionada con con ángulo 
 **a = tan(ang)**
 
 <img  src='./figuras/pendiente.png' height='150px'>
+
 ## Continuidad
+
+### Comentario general
+
+En análisis matemático nos preguntamos a menudo sobre qué sucede en cada punto del dominio de una función.
+Por suerte, para la gran mayoría de las funciones que utilizamos para representar fenómenos, estas condiciones se repiten en "casi" todos o
+todos los puntos del dominio. 
+Nos interesa en general, entonces, entender si existen excepciones o puntos especiales y qué sucede en esos casos.
+
+
+
 ### Límites
+
+Cuando hablamos de límites, nos interesa saber qué sucede **alrededor** de un cierto punto del dominio (o no) de una función.
+
+Punto a, luego 0. Dominio, no dominio limites derecha e izquierda
+<img  src='./figuras/funcion_1sobrex.png' height='250px'>
+ Agregamos el 0 al dominio, y que sucede?
+
+**ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion 
+analitica**
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+
+
+### Continuidad
+
+Con la definicion de limite, la continuidad se hace sencilla a describir. Definir bien en el ejemplo de la imagen anterior y ya.
+
+
 ## Derivabilidad
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+* 
 ## Operar con log, raiz, potencias
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+* 
 ## Función discreta: concepto
+
+**Material adicional:**
+* Lectura 1
+* Video 1
+Volviendo al ejemplo de galletitas, no tiene sentido hablar de 1,5...
