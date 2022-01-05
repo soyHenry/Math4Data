@@ -445,6 +445,10 @@ La discontinuidad en el punto **x=2,5** es del tipo "evitable" mientras que en *
 
 Los distintos tipoos de discontinuidad son:
 
+<img  src='./figuras/type_disc.png' height='350px'>
+
+De los que podrás saber mas siguiendo el material adicional.
+
 **Material adicional:**
 * https://www.funciones.xyz/tipos-de-discontinuidades/
 * Video 1
@@ -454,6 +458,10 @@ Los distintos tipoos de discontinuidad son:
 
 
 ## Derivabilidad
+
+Ya vimos que nos interesa saber si una función es continua o no en los puntos de su dominio. Esto garantiza que ciertas propiedades matemáticas
+y teoremas se podrán aplicar en esos puntos. Pero la continuidad es solo el comienzo. Ahora, vamos a anlizar si una función es
+derivable en su dominio.
 
 **Material adicional:**
 * Lectura 1
