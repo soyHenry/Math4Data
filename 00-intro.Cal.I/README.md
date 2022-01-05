@@ -445,7 +445,7 @@ La discontinuidad en el punto **x=2,5** es del tipo "evitable" mientras que en *
 
 Los distintos tipoos de discontinuidad son:
 
-<img  src='./figuras/type_disc.png' height='300px'>
+<img  src='./figuras/type_disc.png' height='200px'>
 
 De los que podrás saber mas siguiendo el material adicional.
 
