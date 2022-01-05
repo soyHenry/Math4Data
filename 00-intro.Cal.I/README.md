@@ -11,7 +11,7 @@ Por último, el fin de este documento es presentar un temario variado de concept
 nos parecen importantes a tener en cuenta. P
 ara que sea de fácil lectura, los temas no están desarrollados en gran profundidad. 
 Por ello, es imperativo consultar los materiales adicionales propuestos en cada sección.
-Además, te recomendamos fuertemente googlear los temas que te interesen o que necesiten más explicación!
+Además, te recomendamos fuertemente googlear los temas que te interesen o que necesiten más explicación.
 
 Vamos!
 
@@ -361,10 +361,21 @@ por izquierda.
 Para el punto **a** podemos decir, entonces, que ambos limites por derecha e izquierda existen, son finitos e iguales.
 Ya se que a esta altura el análisis de limites parece bastante trivial y de poca utilidad, sigamos.
 
-Miremos ahora a ver qué pasa alrededor del punto **x=0** (no en **x=0** ya que es un punto fuera del dominio donde la función ni siquiera esta definida).
+Miremos ahora a ver qué pasa alrededor del punto **x=0** (no en **x=0** ya que es un 
+punto fuera del dominio donde la función ni siquiera está definida).
 
-Punto a, luego 0. Dominio, no dominio limites derecha e izquierda
- Agregamos el 0 al dominio, y que sucede?
+<img  src='./figuras/lim_0).png' height='150px'>
+
+Si nos vamos acercando al 0 por derecha, vemos que los valores de la función se hacen cada vez mayores. Mientras
+mas chico sea el valor de **x**, mayor será el valor de **f(x)**. En este caso, se dice que el limite por derecha de la función cuando
+**x** tiende a **0** es **infinito** (o **lim (+) x-> 0 = Inf**).
+Si nos acercamos al 0 por izquierda, vemos que los valores de la función se hacen cada vez menores
+(ya que son valores negativos, en **módulo** o **valor obsoluto** los valores son cada vez mayores).
+ En este caso, se dice que el limite por izquierda de la función cuando
+**x** tiende a **0** es **menos infinito** (o **lim (-) x-> 0 = -Inf**).
+
+En el caso de **x=0** y a diferencia de **x=a**, los límites por derecha e izquierda existen, pero NO son finitos ni tampoco iguales entre sí.
+
 
 **ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion 
 analitica**
@@ -376,8 +387,11 @@ analitica**
 
 ### Continuidad
 
+
 Con la definicion de limite, la continuidad se hace sencilla a describir. Definir bien en el ejemplo de la imagen anterior y ya.
 
+
+ Agregamos el 0 al dominio, y que sucede?
 
 ## Derivabilidad
 
