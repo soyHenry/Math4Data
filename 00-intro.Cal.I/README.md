@@ -364,7 +364,7 @@ Ya se que a esta altura el análisis de limites parece bastante trivial y de poc
 Miremos ahora a ver qué pasa alrededor del punto **x=0** (no en **x=0** ya que es un 
 punto fuera del dominio donde la función ni siquiera está definida).
 
-<img  src='./figuras/lim_0.png' height='250px'>
+<img  src='./figuras/lim_0.png' height='350px'>
 
 Si nos vamos acercando al 0 por derecha, vemos que los valores de la función se hacen cada vez mayores. Mientras
 mas chico sea el valor de **x**, mayor será el valor de **f(x)**. En este caso, se dice que el limite por derecha de la función cuando
