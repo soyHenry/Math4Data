@@ -368,13 +368,16 @@ punto fuera del dominio donde la función ni siquiera está definida).
 
 Si nos vamos acercando al 0 por derecha, vemos que los valores de la función se hacen cada vez mayores. Mientras
 mas chico sea el valor de **x**, mayor será el valor de **f(x)**. En este caso, se dice que el limite por derecha de la función cuando
-**x** tiende a **0** es **infinito** (o **lim (+) x-> 0 = Inf**).
+**x** tiende a **0** es **infinito** (o **lim (+) x-> 0 = Inf**). Este comportamiento donde los valores
+de una función se acercan infinitamente a un eje o una recta si jamás tocarlo se llama **asíntota**.
 Si nos acercamos al 0 por izquierda, vemos que los valores de la función se hacen cada vez menores
 (ya que son valores negativos, en **módulo** o **valor obsoluto** los valores son cada vez mayores).
  En este caso, se dice que el limite por izquierda de la función cuando
 **x** tiende a **0** es **menos infinito** (o **lim (-) x-> 0 = -Inf**).
 
-En el caso de **x=0** y a diferencia de **x=a**, los límites por derecha e izquierda existen, pero NO son finitos ni tampoco iguales entre sí.
+En el caso de **x=0** y a diferencia de **x=a**, los límites por derecha e izquierda existen, 
+pero NO son finitos ni tampoco iguales entre sí.
+
 
 
 **ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion 
@@ -388,10 +391,67 @@ analitica**
 ### Continuidad
 
 
-Con la definicion de limite, la continuidad se hace sencilla a describir. Definir bien en el ejemplo de la imagen anterior y ya.
+Con el concepto claro de límite, la continuidad se hace sencilla a describir. 
+Tomemos el punto **x=a** de la sección anterior. Como vimos, los límites por izquierda y derecha son finitos
+
+**lim (+) x -> a = lim (-) x -> a = f(a)** 
+
+e iguales a **f(a)**, es decir, el valor de la función en el punto.
+
+Con estos 3 elementos:
+
+* Los limites por derecha e izquierda existen y son finitos
+* Los limites por derecha e izquierda son iguales entre sí
+* Los limites por derecha e izquierda son iguales al valor de la función en el punto
 
 
- Agregamos el 0 al dominio, y que sucede?
+podemos entonces afirmar que "la función es **continua** en **a**".
+
+Haciendo un poco de abstracción, podemos ver que todos los puntos del dominio de la función se comportan igual que **a** (además de poder
+demostrarse analíticamente, por supuesto). En estos casos, se dice que la función es **continua** (se sobreentiende que
+hablamos de "en todo su dominio" y no es necesario aclararlo ya que no se le puede pedir a una función que sea de una
+manera u otra en lugares donde no existe).
+
+Definamos ahora una función de **x** que llamaremos **k**, de manera que **k(x) = 1/x** cuando **x** sea distinto de
+0 y **k(x) = 0** cuando **x=0**:
+
+<img  src='./figuras/lim_0.png' height='350px'>
+
+
+El dominio de **k(x)** son todos los reales. En cualquier punto distinto de 0, **k** tiene las mismas características que la función **f(x)** que ya analizamos.
+Qué sucede EN **x=0**? Analicemos si es continua:
+
+
+* Los limites por derecha e izquierda existen y son finitos? **NO**
+* Los limites por derecha e izquierda son iguales entre sí? **NO**
+* Los limites por derecha e izquierda son iguales al valor de la función en el punto? **NO**
+
+Ahora si podemos decir que la función **k(x)** es continua en R-{0} y es discontinua en 0.
+
+Por último, veamos que sucede con **j(x)**, con dominio en todos los reales
+
+<img  src='./figuras/continuity2.png' height='350px'>
+
+Qué sucede EN **x=2,5**? Analicemos si es continua:
+
+
+* Los limites por derecha e izquierda existen y son finitos? **SI**
+* Los limites por derecha e izquierda son iguales entre sí? **SI**: **lim (+) x -> 2,5 = lim (-) x -> 2,5 = 1/2,5** 
+* Los limites por derecha e izquierda son iguales al valor de la función en el punto? **NO**: **j(x) = 2,5 != 1/2,5**
+
+
+La función **j(x)** es continua en R-{0;2,5} y es discontinua en 0 y en 2,5. 
+La discontinuidad en el punto **x=2,5** es del tipo "evitable" mientras que en **x=0** es del tipo "inevitable de salto infinito".
+
+Los distintos tipoos de discontinuidad son:
+
+**Material adicional:**
+* https://www.funciones.xyz/tipos-de-discontinuidades/
+* Video 1
+* 
+
+<img  src='./figuras/type_disc.png' height='350px'>
+
 
 ## Derivabilidad
 
