@@ -26,6 +26,7 @@ Vamos!
 * Derivabilidad
 * Operar con log, raiz, potencias
 * Función discreta: concepto
+* Función multivariable: concepto
 
 ## Conceptos generales
 
@@ -323,10 +324,46 @@ Nos interesa en general, entonces, entender si existen excepciones o puntos espe
 
 ### Límites
 
-Cuando hablamos de límites, nos interesa saber qué sucede **alrededor** de un cierto punto del dominio (o no) de una función.
+Cuando hablamos de límites, nos interesa saber qué sucede **alrededor** de un cierto punto del 
+dominio (o no) de una función.
+
+Tomemos la función 
+
+**y = f(x) = 1/x** (se lee **y** es igual a una función de **x** y es igual a unos sobre **x**)
+
+El dibujo de su gráfica es el siguiente:
+
+<img  src='./figuras/funcion_1sobrex.png' height='250px'>
+
+Como lo hemos mencionado, el dominio natural de esta función es D=R-{0} (todos los reales menos el 0) ya que
+no se admite dividir por cero. Por otro lado, cualquier otro número es válido en esa ecuación.
+
+Como dijimos, nos interesa entender como se comporta la función en cada punto y en particular si hay puntos
+donde su comportamiento es diferente. Tomemos un punto cualquiera, por ejemplo **a** (imagen). Queremos saber 
+qué pasa con **f(x)** cuando x "se acerca a" **a**. Como estamos en una dimensión, puedo acercarme a un elemento del 
+dominio por dos caminos: derecha o izquierda (numeros mayores que **a** o menores).
+
+<img  src='./figuras/lim_izq.png' height='150px'>
+
+Si me acerco a **a** por izquierda (es decir, valores menores que **a** o también: **lim (-) x -> a**, límite
+por izquierda cuando **x** tiende a **a**) 
+siguiendo la flecha rosa en la imagen, se ve que 
+la función (**y = f(x)**) se va acercando a **f(a)**. Recuerden que el **limite** se interesa a lo
+que pasa **alredor**
+de un punto, y no **en** en punto en si. Si ahora hago el mismo ejercicio acercándome por derecha
+(valores mayores que **a** o también: **lim (+) x -> a**, límite
+por derecha cuando **x** tiende a **a**) siguiendo la flecha
+roja en la imagen, la función (**y = f(x)**) se va acercando a **f(a)**, al igual que en su límite
+por izquierda.
+
+<img  src='./figuras/lim_der.png' height='150px'>
+
+Para el punto **a** podemos decir, entonces, que ambos limites por derecha e izquierda existen, son finitos e iguales.
+Ya se que a esta altura el análisis de limites parece bastante trivial y de poca utilidad, sigamos.
+
+Miremos ahora a ver qué pasa alrededor del punto **x=0** (no en **x=0** ya que es un punto fuera del dominio donde la función ni siquiera esta definida).
 
 Punto a, luego 0. Dominio, no dominio limites derecha e izquierda
-<img  src='./figuras/funcion_1sobrex.png' height='250px'>
  Agregamos el 0 al dominio, y que sucede?
 
 **ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion 
@@ -356,7 +393,10 @@ Con la definicion de limite, la continuidad se hace sencilla a describir. Defini
 * 
 ## Función discreta: concepto
 
+Volviendo al ejemplo de galletitas, no tiene sentido hablar de 1,5...
+
 **Material adicional:**
 * Lectura 1
 * Video 1
-Volviendo al ejemplo de galletitas, no tiene sentido hablar de 1,5...
+
+## Función multivariable: concepto
