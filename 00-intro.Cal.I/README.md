@@ -443,7 +443,7 @@ Qué sucede EN **x=2,5**? Analicemos si es continua:
 La función **j(x)** es continua en R-{0;2,5} y es discontinua en 0 y en 2,5. 
 La discontinuidad en el punto **x=2,5** es del tipo "evitable" mientras que en **x=0** es del tipo "inevitable de salto infinito".
 
-Los distintos tipoos de discontinuidad son:
+Los distintos tipos de discontinuidad son:
 
 <img  src='./figuras/type_disc.png' height='200px'>
 
@@ -458,9 +458,22 @@ De los que podrás saber mas siguiendo el material adicional.
 
 ## Derivabilidad
 
-Ya vimos que nos interesa saber si una función es continua o no en los puntos de su dominio. Esto garantiza que ciertas propiedades matemáticas
-y teoremas se podrán aplicar en esos puntos. Pero la continuidad es solo el comienzo. Ahora, vamos a anlizar si una función es
-derivable en su dominio.
+Ya vimos que nos interesa saber si una función es continua o no en los puntos de su dominio. 
+Esto garantiza que ciertas propiedades matemáticas
+y teoremas se podrán aplicar en esos puntos. Pero la continuidad es solo el comienzo. 
+Ahora, vamos a analizar si una función es
+**derivable** en su dominio.
+
+El concepto de derivabilidad se relaciona con que tan suave es una función, que a su vez es una medida de 
+la predescibilidad de lo que sucederá en un punto **x+a, a en R** conociendo lo que sucede en **x**. Saber que una función es
+continua es ya una gran ayuda en este sentido, ya que si conozco **f(x)** se que **f(x+a)** no puede estar muy lejos.
+Ahora, hay casos donde una función es continua y aún asi es dificil saber que pasar en **f(x+a)**. Imaginemos
+un pico "puntiagudo", si nos paramos en la cima del pico, cualquier pasito que demos por mas chiquito, 
+podemos ir a parar muy "lejos". En cambio, en una cima "suave" como la de una sierra, por mas que demos un paso
+grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguiente figura:
+
+<img  src='./figuras/intro_deriv.png' height='300px'>
+
 
 **Material adicional:**
 * Lectura 1
