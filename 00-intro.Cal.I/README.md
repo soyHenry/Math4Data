@@ -472,7 +472,7 @@ un pico "puntiagudo", si nos paramos en la cima del pico, cualquier pasito que d
 podemos ir a parar muy "lejos". En cambio, en una cima "suave" como la de una sierra, por mas que demos un paso
 grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguiente figura:
 
-<img  src='./figuras/intro_deriv.png' height='300px'>
+<img  src='./figuras/intro_deriv.png' height='500px'>
 
 
 **Material adicional:**
