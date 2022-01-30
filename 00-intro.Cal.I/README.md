@@ -526,7 +526,7 @@ expresión siguiente
 
 
 
-<img  src='./figuras/der_def.png' height='100px'>
+<img  src='./figuras/der_def.png' height='80px'>
 
 
 
@@ -549,7 +549,7 @@ Imaginemos que quiero determinar cuantas horas debería dormir por noche para es
 Podría diseniar un experimento en el cual cada dia duermo una cantidad distinta de horas, y al dia siguiente noto
 de 1 a 10 mi nivel de energía y obtener una curva de este estilo:
 
-<img  src='./figuras/max_hs_intro.png' height='50px'>
+<img  src='./figuras/max_hs_intro.png' height='200px'>
 
 Lo que quiero saber, claramente, es: cuantas horas corresponden al maximo de energía?
 
@@ -563,7 +563,7 @@ en el valor máximo de la función. Entonces, una manera de determinar cuando un
 el o los puntos en que su derivada es nula. Atención! Esto también sirve para los valores mínimos y los puntos de inflexión. 
 
 
-<img  src='./figuras/max_hs_detail.png' height='100px'>
+<img  src='./figuras/max_hs_detail.png' height='200px'>
 
 
 Para distinguir entre un maximo, un minimo y un punto de inflexión se debe también tener en cuenta la concavidad de la curva (determinada por
