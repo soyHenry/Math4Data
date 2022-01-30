@@ -475,6 +475,12 @@ grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguien
 <img  src='./figuras/intro_deriv.png' height='500px'>
 
 
+
+### Analisis funcional 
+
+maximo minimo asintotas, intro a la modelizacion
+
+## Integrales - Concepto
 **Material adicional:**
 * Lectura 1
 * Video 1
