@@ -582,7 +582,12 @@ mientras que la segunda refiere a una operación matemática y en particular cor
 <img  src='./figuras/int_def_2.png' height='400px'>
 
 
-Finalmente, cual es la relación entre la integral definida y la indefinida, o la inversa de la derivada?
+Como con la derivación, la integral también plantea la division de la función en partecitas para calcular el área de cada una de ellas
+y luego sumarlas. Esto se llama "sumas de Riemann" y es una parte clave del cálculo integral:
+
+<img  src='./figuras/riemann.png' height='400px'>
+
+Finalmente, cuál es la relación entre la integral definida y la indefinida, o la inversa de la derivada?
 Respuesta en este texto:
 
 <img  src='./figuras/barrow.png' height='300px'>
