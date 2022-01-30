@@ -513,14 +513,22 @@ Una vision que puede resultar práctica del concepto de derivada es la que sale 
 puntos *x* y *x+h* y luego hacemos *h* muy chiquito (*lim h -> 0*) hasta que *x* y *x+h* esten muy cerca
 y la recta secante se convierta en la tangente en *x*:
 
-<img  src='./figuras/der_sec.png' height='600px'>
+
+
+<img  src='./figuras/der_sec.png' height='500px'>
 
 <img  src='./figuras/der_sec_im.png' height='300px'>
+
+
 
 Para **calcular** el valor de una derivada en un punto, se debe resolver el limite planteado en la
 expresión siguiente
 
+
+
 <img  src='./figuras/der_def.png' height='100px'>
+
+
 
 que significa, literalmente, la taza de cambio de una función entre un punto **x** y su entorno muy cercano
 (**x+h** con **h -> 0**).
@@ -528,23 +536,52 @@ que significa, literalmente, la taza de cambio de una función entre un punto **
 En este curso no vamos a pedir que el alumno pueda resolver este ejercicio, sino qe vamos a usar tablas de derivadas que
 se encuentran facilmente en internet.
 
+Otra manera interesante de entender las derivadas es relacionando con la velocidad, como lo pueden ver en este video:
 
-### Analisis funcional 
+https://www.youtube.com/watch?v=uK4-s0ojHFg&ab_channel=Matem%C3%A1ticasprofeAlex
 
-maximo minimo asintotas, intro a la modelizacion
+### Análisis funcional y puntos críticos
+
+En general, hay ciertos puntos de una función que nos interesan mas que otros ya que definen momentos clave del fenómen
+que estan modelizando. 
+
+Imaginemos que quiero determinar cuantas horas debería dormir por noche para estar óptima en rendimiento al dia siguiente.
+Podría diseniar un experimento en el cual cada dia duermo una cantidad distinta de horas, y al dia siguiente noto
+de 1 a 10 mi nivel de energía y obtener una curva de este estilo:
+
+<img  src='./figuras/max_hs_intro.png' height='50px'>
+
+Lo que quiero saber, claramente, es: cuantas horas corresponden al maximo de energía?
+
+Una manera de resolver este ejercicio es usando derivadas. Para puntos anteriores al máximo las derivadas 
+(pendientes de la recta tangente) son postivas y cada vez mayores (la pendiente se va agudizando). Luego 
+del máximo, al contrario, las rectas son descendientes ergo sus pendientes negativas. Porque un teorema 
+dice (créanme) que en una función continua que pasa por valores positivos y negativos tiene que si o si haber pasado por cero (tiene sentido)
+y que para la gran mayoria de aplicaciones le derivada es una función continua en si misma, quiere decir que e valor de 
+la derivada tiene que ser cero en algun momento. En particular, es 0 cuando pasa de aumentar a disminuir, ergo,
+en el valor máximo de la función. Entonces, una manera de determinar cuando una función se maximiza es obteniendo
+el o los puntos en que su derivada es nula. Atención! Esto también sirve para los valores mínimos y los puntos de inflexión. 
+
+
+<img  src='./figuras/max_hs_detail.png' height='100px'>
+
+
+Para distinguir entre un maximo, un minimo y un punto de inflexión se debe también tener en cuenta la concavidad de la curva (determinada por
+el signo de la derivada segunda) y los valores de la función antes y después del punto crítico.
 
 ## Integrales - Concepto
 
 
 **Material adicional:**
-* Lectura 1
+* Lectura 1: https://www.fisicalab.com/apartado/derivabilidad-continuidad
+* Lectura 2: https://es.wikipedia.org/wiki/Punto_cr%C3%ADtico_(matem%C3%A1tica)
 * Video 1
 * 
 ## Operar con log, raiz, potencias
 
 **Material adicional:**
 * Lectura 1
-* Video 1
+* Video 1: https://www.youtube.com/watch?v=uK4-s0ojHFg&ab_channel=Matem%C3%A1ticasprofeAlex
 * 
 ## Función discreta: concepto
 
