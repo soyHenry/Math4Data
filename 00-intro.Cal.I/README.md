@@ -572,16 +572,33 @@ el signo de la derivada segunda) y los valores de la función antes y después d
 ## Integrales - Concepto
 
 
+Antes de empezar, es importante aclarar que existen dos tipos de integrales cuyo significado difiere completamente:
+*definidas* e *indefinidas*. La primera tiene una significación geométrica respecto de la curva que describe una función
+mientras que la segunda refiere a una operación matemática y en particular corresponde a la inversa de la derivada.
+
+### Integrales definidas
+
+<img  src='./figuras/int_def_1.png' height='400px'>
+<img  src='./figuras/int_def_2.png' height='400px'>
+
+
+Finalmente, cual es la relación entre la integral definida y la indefinida, o la inversa de la derivada?
+Respuesta en este texto:
+
+<img  src='./figuras/barrow.png' height='400px'>
+
 **Material adicional:**
 * Lectura 1: https://www.fisicalab.com/apartado/derivabilidad-continuidad
 * Lectura 2: https://es.wikipedia.org/wiki/Punto_cr%C3%ADtico_(matem%C3%A1tica)
-* Video 1
-* 
+* Lectura 3: https://www.hiru.eus/es/matematicas/la-integral-definida
+* Video 1: https://www.youtube.com/watch?v=uK4-s0ojHFg&ab_channel=Matem%C3%A1ticasprofeAlex
+
+
 ## Operar con log, raiz, potencias
 
 **Material adicional:**
-* Lectura 1
-* Video 1: https://www.youtube.com/watch?v=uK4-s0ojHFg&ab_channel=Matem%C3%A1ticasprofeAlex
+* Lectura 1: 
+* Video 1: 
 * 
 ## Función discreta: concepto
 
