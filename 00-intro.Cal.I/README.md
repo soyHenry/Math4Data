@@ -507,15 +507,15 @@ La recta tangente es, a su vez, la gráfica de la mejor aproximación lineal de 
 dicho punto. La noción de derivada puede generalizarse para el caso de funciones de más de una variable 
 con la derivada parcial y el diferencial.*
 
-<img  src='./figuras/der.png' height='500px'>
+<img  src='./figuras/der.png' height='200px'>
 
 Una vision que puede resultar práctica del concepto de derivada es la que sale de imaginar una recta secante que pasa por dos
 puntos *x* y *x+h* y luego hacemos *h* muy chiquito (*lim h -> 0*) hasta que *x* y *x+h* esten muy cerca
 y la recta secante se convierta en la tangente en *x*:
 
-<img  src='./figuras/der_sec.png' height='800px'>
+<img  src='./figuras/der_sec.png' height='600px'>
 
-<img  src='./figuras/der_sec_im.png' height='200px'>
+<img  src='./figuras/der_sec_im.png' height='300px'>
 
 Para **calcular** el valor de una derivada en un punto, se debe resolver el limite planteado en la
 expresión siguiente
