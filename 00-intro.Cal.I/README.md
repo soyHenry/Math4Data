@@ -513,14 +513,14 @@ Una vision que puede resultar práctica del concepto de derivada es la que sale 
 puntos *x* y *x+h* y luego hacemos *h* muy chiquito (*lim h -> 0*) hasta que *x* y *x+h* esten muy cerca
 y la recta secante se convierta en la tangente en *x*:
 
-<img  src='./figuras/der_sec.png' height='1000px'>
+<img  src='./figuras/der_sec.png' height='800px'>
 
 <img  src='./figuras/der_sec_im.png' height='200px'>
 
 Para **calcular** el valor de una derivada en un punto, se debe resolver el limite planteado en la
 expresión siguiente
 
-<img  src='./figuras/der_def.png' height='200px'>
+<img  src='./figuras/der_def.png' height='100px'>
 
 que significa, literalmente, la taza de cambio de una función entre un punto **x** y su entorno muy cercano
 (**x+h** con **h -> 0**).
