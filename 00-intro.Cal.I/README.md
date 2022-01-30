@@ -474,6 +474,59 @@ grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguien
 
 <img  src='./figuras/intro_deriv.png' height='500px'>
 
+Mas concretamente, una función es derivable en un punto **x0** si se puede construir una recta tangente a la funcieon
+en ese punto. La pendiente de la recta tangente representa la taza de crecimiento (positivo, negativo o nulo) que presenta la
+función en ese punto. Entre las muchisimas aplicaciones de este concepto, esta el hecho de poder simplificar
+el comportamiento de una función compleja (o desconocida!) a una simple recta, siempre y cuando trabajemos de manera local (cerca del punto **x0**).
+Esta ida de trabajar "cerca de" un punto, o de subdividir un problema grande es muchas partes infinitecimales es 
+central en el análisis matemático, como seguiremos viendo, y da origen a conocidas notaciones como
+**dx**.
+
+
+Wikipedia, sabiamente, describe:
+
+*La derivada de una función es la razón de cambio instantánea con la que varía el valor de dicha función
+matemática, según se modifique el valor de su variable independiente.
+La derivada de una función es un concepto local, es decir, se calcula como el límite de la rapidez de 
+cambio media de la función en cierto intervalo, cuando el intervalo considerado para la variable 
+independiente se torna cada vez más pequeño. Por eso se habla del valor de la derivada de una 
+función en un punto dado.*
+
+*Un ejemplo habitual aparece al estudiar el movimiento: si una función representa la posición de un 
+objeto con respecto al tiempo, su derivada es la velocidad de dicho objeto para todos los momentos. 
+Un avión que realice un vuelo transatlántico de 4500 km entre las 12:00 y las 18:00, viaja a una velocidad 
+media de 750 km/h. Sin embargo, puede estar viajando a velocidades mayores o menores en distintos tramos de la
+ruta. En particular, si entre las 15:00 y las 15:30 recorre 400 km, su velocidad media en ese tramo es
+de 800 km/h. Para conocer su velocidad instantánea a las 15:20, por ejemplo, es necesario calcular la 
+velocidad media en intervalos de tiempo cada vez menores alrededor de esta hora: entre las 15:15 y las 
+15:25, entre las 15:19 y las 15:21.*
+
+*Entonces el valor de la derivada de una función en un punto puede interpretarse geométricamente, 
+ya que se corresponde con la pendiente de la recta tangente a la gráfica de la función en dicho punto. 
+La recta tangente es, a su vez, la gráfica de la mejor aproximación lineal de la función alrededor de 
+dicho punto. La noción de derivada puede generalizarse para el caso de funciones de más de una variable 
+con la derivada parcial y el diferencial.*
+
+<img  src='./figuras/der.png' height='500px'>
+
+Una vision que puede resultar práctica del concepto de derivada es la que sale de imaginar una recta secante que pasa por dos
+puntos *x* y *x+h* y luego hacemos *h* muy chiquito (*lim h -> 0*) hasta que *x* y *x+h* esten muy cerca
+y la recta secante se convierta en la tangente en *x*:
+
+<img  src='./figuras/der_sec.png' height='1000px'>
+
+<img  src='./figuras/der_sec_im.png' height='200px'>
+
+Para **calcular** el valor de una derivada en un punto, se debe resolver el limite planteado en la
+expresión siguiente
+
+<img  src='./figuras/der_def.png' height='200px'>
+
+que significa, literalmente, la taza de cambio de una función entre un punto **x** y su entorno muy cercano
+(**x+h** con **h -> 0**).
+
+En este curso no vamos a pedir que el alumno pueda resolver este ejercicio, sino qe vamos a usar tablas de derivadas que
+se encuentran facilmente en internet.
 
 
 ### Analisis funcional 
@@ -481,6 +534,8 @@ grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguien
 maximo minimo asintotas, intro a la modelizacion
 
 ## Integrales - Concepto
+
+
 **Material adicional:**
 * Lectura 1
 * Video 1
