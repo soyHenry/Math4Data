@@ -578,14 +578,14 @@ mientras que la segunda refiere a una operación matemática y en particular cor
 
 ### Integrales definidas
 
-<img  src='./figuras/int_def_1.png' height='400px'>
+<img  src='./figuras/int_def_1.png' height='200px'>
 <img  src='./figuras/int_def_2.png' height='400px'>
 
 
 Finalmente, cual es la relación entre la integral definida y la indefinida, o la inversa de la derivada?
 Respuesta en este texto:
 
-<img  src='./figuras/barrow.png' height='400px'>
+<img  src='./figuras/barrow.png' height='300px'>
 
 **Material adicional:**
 * Lectura 1: https://www.fisicalab.com/apartado/derivabilidad-continuidad
