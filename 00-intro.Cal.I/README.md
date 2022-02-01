@@ -24,7 +24,6 @@ Vamos!
 * Ecuación de la recta
 * Continuidad
 * Derivabilidad
-* Operar con log, raiz, potencias
 * Función discreta: concepto
 * Función multivariable: concepto
 
@@ -141,6 +140,19 @@ Entonces, el seno(90°)=1 y el coseno(90°)=0. En la sección Gráficos, veremos
 * Lectura 1
 * Video 1
 
+### Operar con logaritmos y potencias
+
+Esta sección es meramente operatoria asi que iremos directo al grano con algunas lecturas propuestas:
+
+Para entender:
+https://miprofe.com/propiedades-de-la-potenciacion-y-logaritmo/
+
+Algunos ejercicios y su resolución:
+https://www.superprof.es/apuntes/escolar/matematicas/algebra/log/ejercicios-de-logaritmos.html
+
+**Material adicional:**
+* Lectura 1: 
+* Video 1: 
 
 ## Funciones
 
@@ -599,18 +611,41 @@ Respuesta en este texto:
 * Video 1: https://www.youtube.com/watch?v=uK4-s0ojHFg&ab_channel=Matem%C3%A1ticasprofeAlex
 
 
-## Operar con log, raiz, potencias
-
-**Material adicional:**
-* Lectura 1: 
-* Video 1: 
-* 
 ## Función discreta: concepto
 
-Volviendo al ejemplo de galletitas, no tiene sentido hablar de 1,5...
+Volviendo al ejemplo de nuestra fábrica de galletitas, no tiene sentido hablar de 1,5 galletitas o de 3,222 paquetes.
+en realidad, y sin mencionarlo, estabamos trabajando con una **función discreta**:
+
+<img  src='./figuras/f_dist1.png' height='300px'>
+
+Las funciones discretas son muy usadas en computación (-)ya que el mundo digital en si es discreto, como han visto en el
+curso introductorio en Python), análisis de seniales y en el mundo de la data, ya que es una manera apropiada de modelar ciertos fenómenos como
+nuestra fábrica de galletitas.
 
 **Material adicional:**
 * Lectura 1
 * Video 1
 
 ## Función multivariable: concepto
+
+Hasta ahora vimos funciones en 2D, es decir con dos variables, donde una era la variable independiente (muchas veces llamada **x** y
+colocada en el eje horizontal en la gráfica de la curva) y la otra la variable dependiente. Ahora bien, muchos (la mayoría) de los fenómenos 
+no dependen de una sola variable. Por ejemplo, la cantidad de paquetes de galletitas que produce mi fábrica por día va a depender de los kg de harina
+como hemos considerado pero también de cuánto personal hay presente en el día, de si todas las máquinas funcionan corrientemente,
+la disponibilidad de todos los ingredientes, etc. Ver solo el problema en función de la cantidad de harina
+es un enfoque preciso (o corte en el espacio multidimensional) de un problema mucho mayor.
+Cada variable agrega una dimensión en el espacio y por ende podemos tener gráficas en 2D, 3D, 4D,... 10D, etc.
+Lamentablemente, nuestro cerebro, no puede visualmente captar mas de 4 o 5 dimensiones (3D en volúmen+colores+tiempo). Mas allá de 
+este límite no podemos entonces representar gráficamente mas que cortes o enfoques de nuestro problema.
+
+Todo el cálculo que vimos en este curso con sus límites, derivadas y análisis funcional existe por supuesto para multiples dimensiones,
+y se vuelve (un poquito...) mas complejo. No vamos a entrar en detalles pero si te interesa te invito a leer mas sobre este mundo pasionante.
+
+Esta imágen muestra a la iquierda una curva en 3D. Si cortamos mentalmente donde indica el arco rojo y proyectamos en 
+un plano, obtenemos una simple parábola como vemos a la derecha.
+
+<img  src='./figuras/3d.png' height='300px'>
+
+Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje vertical, y en 3D obtenemos una curva de ste estilo:
+
+<img  src='./figuras/3d2.png' height='100px'>
