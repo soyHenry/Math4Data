@@ -616,7 +616,7 @@ Respuesta en este texto:
 Volviendo al ejemplo de nuestra fábrica de galletitas, no tiene sentido hablar de 1,5 galletitas o de 3,222 paquetes.
 en realidad, y sin mencionarlo, estabamos trabajando con una **función discreta**:
 
-<img  src='./figuras/f_dis1.png' height='300px'>
+<img  src='./figuras/f_dis1.png' height='150px'>
 
 Las funciones discretas son muy usadas en computación (-)ya que el mundo digital en si es discreto, como han visto en el
 curso introductorio en Python), análisis de seniales y en el mundo de la data, ya que es una manera apropiada de modelar ciertos fenómenos como
@@ -648,4 +648,4 @@ un plano, obtenemos una simple parábola como vemos a la derecha.
 
 Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje vertical, y en 3D obtenemos una curva de ste estilo:
 
-<img  src='./figuras/3d2.png' height='300px'>
+<img  src='./figuras/3d2.png' height='200px'>
