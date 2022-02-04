@@ -55,7 +55,7 @@ o mediante su **módulo** y **dirección**.
 
 <img  src='./figuras/vector2.png' height='100px'>
 
-<img  src='./figuras/vector3.png' height='500px'>
+<img  src='./figuras/vector3.png' height='300px'>
 
 <img  src='./figuras/vector4.png' height='500px'>
 
