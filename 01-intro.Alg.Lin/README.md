@@ -53,7 +53,7 @@ refleja en cada uno de los 3 ejes:
 Los vectores se puede describir en base a sus componentes cartesianos, como vimos hasta ahora, 
 o mediante su **módulo** y **dirección**. 
 
-<img  src='./figuras/vector2.png' height='100px'>
+<img  src='./figuras/vector2.png' height='150px'>
 
 <img  src='./figuras/vector3.png' height='300px'>
 
