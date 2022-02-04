@@ -276,15 +276,15 @@ con el nombre de y).
 
 **Representación de un punto en el eje de coordenadas**
 
-<img  src='./figuras/punto.png' height='150px'>
+<img  src='./figuras/punto.png' height='250px'>
 
 **Representación de la relación g(a) = 2 * a**
 
-<img  src='./figuras/recta_grafico.png' height='150px'>
+<img  src='./figuras/recta_grafico.png' height='250px'>
 
 **Representación de la función compuesta que define g(a)**
 
-<img  src='./figuras/f_compuesta_grafico.png' height='150px'>
+<img  src='./figuras/f_compuesta_grafico.png' height='250px'>
 
 Como pueden imaginar, existen muchísimas otras maneras de representar visualmente la relación entre datos además del eje de coordenadas!
 
@@ -307,7 +307,7 @@ distintos fenómenos (con distintos niveles de aproximación) del mundo físico.
 Como vimos en nuestro ejemplo anterior, podemos modelizar la producción de galletitas de una fábrica en función 
 de los gramos de azúcar disponibles como **g(a) = 2 * a**. Su gráfica en ejes cartesianos tiene la forma:
 
-<img  src='./figuras/recta_grafico2.png' height='150px'>
+<img  src='./figuras/recta_grafico2.png' height='250px'>
 
 Como se puede ver, geométricamente esta función determina una **recta** que pasa por el origen 
 de coordenadas, representado por un punto rojo cuando a=0 y g=0, o (0,0).
@@ -602,6 +602,8 @@ el o los puntos en que su derivada es nula. Atención! Esto también sirve para 
 
 Para distinguir entre un maximo, un minimo y un punto de inflexión se debe también tener en cuenta la concavidad de la curva (determinada por
 el signo de la derivada segunda) y los valores de la función antes y después del punto crítico.
+
+[comment]: <> (Ejemplo: análisis funcional completo)
 
 ## Integrales - Concepto
 
