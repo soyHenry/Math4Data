@@ -48,16 +48,16 @@ La siguiente figura muestra un vector de dimension 3 dibujado en el espacio, don
 refleja en cada uno de los 3 ejes:
 
 
-<img  src='./figuras/vector1.png' height='200px'>
+<img  src='./figuras/vector1.png' height='250px'>
 
 Los vectores se puede describir en base a sus componentes cartesianos, como vimos hasta ahora, 
 o mediante su **módulo** y **dirección**. 
 
-<img  src='./figuras/vector2.png' height='200px'>
+<img  src='./figuras/vector2.png' height='100px'>
 
-<img  src='./figuras/vector3.png' height='200px'>
+<img  src='./figuras/vector3.png' height='500px'>
 
-<img  src='./figuras/vector4.png' height='200px'>
+<img  src='./figuras/vector4.png' height='500px'>
 
 **Material adicional:**
 
@@ -75,9 +75,13 @@ Volviendo al ejemplo del principio, naturalmente podemos querer describir muchas
 Para ello, podemos hacer:
 
 **(s,e,a,cp,co)**
+
 1.(F, 28, 1.57, marron, negro)
+
 2.(M, 33, 1.60, negro, marron)
+
 3.(F, 12, 1.45, rubio, verde)
+
 4.(X, 40, 1.80, marron, celeste)
 
 
