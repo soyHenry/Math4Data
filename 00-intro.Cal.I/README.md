@@ -55,9 +55,11 @@ En el siguiente grafico vas a encontrar las relaciones entre los conjuntos menci
 
 <img  src='./figuras/type_num.png' height='370px'>
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lecturas)
+
+[comment]: <> (* Videos)
 
 
 ### Porcentajes
@@ -93,9 +95,11 @@ Por último, un porcentaje no es necesariamente un número menor. Por ejemplo, e
 
 o también “el doble (200%) más el 30%” o sea 2000*2+600.
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1)
+
+[comment]: <> (* Video 1)
 
 
 ### Geometría: Ángulos y trigonometría 
@@ -136,9 +140,11 @@ Si imaginamos <font color="pink"> ángulo </font> tan chico como sea posible (0�
 Es decir, el seno(0°)=0 y el coseno(0°)=1. Con la misma lógica, si abrimos <span style="color:pink"> ángulo </span> hasta los 90° sucede lo contrario donde X desaparece (|X|=0) y |Y|=|H|=1. 
 Entonces, el seno(90°)=1 y el coseno(90°)=0. En la sección Gráficos, veremos qué forma tienen esas relaciones visualmente.
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1)
+
+[comment]: <> (* Video 1)
 
 ### Operar con logaritmos y potencias
 
@@ -150,9 +156,11 @@ https://miprofe.com/propiedades-de-la-potenciacion-y-logaritmo/
 Algunos ejercicios y su resolución:
 https://www.superprof.es/apuntes/escolar/matematicas/algebra/log/ejercicios-de-logaritmos.html
 
-**Material adicional:**
-* Lectura 1: 
-* Video 1: 
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1: )
+
+[comment]: <> (* Video 1: )
 
 ## Funciones
 
@@ -242,12 +250,15 @@ Con el concepto de dominio e imagen, podemos definir:
 "Una función matemática es una relación que se establece entre dos conjuntos, a través de la cual a cada 
 elemento del primer conjunto (dominio) se le asigna un único elemento del segundo conjunto (imagen) o ninguno. "
 
-**video: mas ejemplos! puede ser la velocidad y algo que sube y baja
-mencionar variable dependiente, independiente**
+[comment]: <> (**video: mas ejemplos! puede ser la velocidad y algo que sube y baja)
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (mencionar variable dependiente, independiente**)
+
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1)
+
+[comment]: <> (* Video 1)
 
 
 ## Gráficos
@@ -277,12 +288,15 @@ con el nombre de y).
 
 Como pueden imaginar, existen muchísimas otras maneras de representar visualmente la relación entre datos además del eje de coordenadas!
 
-**video y ejercicios: mostrar mas funciones, diferentes dibujos
-ejercicios: hacer otros dibujos**
+[comment]: <> (**video y ejercicios: mostrar mas funciones, diferentes dibujos)
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (ejercicios: hacer otros dibujos**)
+
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1)
+
+[comment]: <> (* Video 1)
 
 
 ## Ecuación de la recta
@@ -306,10 +320,13 @@ la variable dependiente **g** aumenta de 2. El valor de la inclinación, tambié
 Cuando este valor "tiende a" o "se parece a" infinito (veremos el concepto de tendencia mas adelante)
 la recta resultante se parece a una vertical.
 
-**EJERCICIOS: dibujar rectas
-es funcion o no
-por que 'se parece a' y no 'es'
-VIDEO; mas ejemplos de casos modelizados lineales**
+[comment]: <> (**EJERCICIOS: dibujar rectas)
+
+[comment]: <> (es funcion o no)
+
+[comment]: <> (por que 'se parece a' y no 'es')
+
+[comment]: <> (VIDEO; mas ejemplos de casos modelizados lineales**)
 
 Con estos conceptos, definimos la función que describe una recta como
 
@@ -392,12 +409,15 @@ pero NO son finitos ni tampoco iguales entre sí.
 
 
 
-**ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion 
-analitica**
+[comment]: <> (**ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion )
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (analitica**)
+
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1)
+
+[comment]: <> (* Video 1)
 
 
 ### Continuidad
@@ -462,9 +482,11 @@ Los distintos tipos de discontinuidad son:
 De los que podrás saber mas siguiendo el material adicional.
 
 **Material adicional:**
-* https://www.funciones.xyz/tipos-de-discontinuidades/
-* Video 1
-* 
+* Lectura: https://www.funciones.xyz/tipos-de-discontinuidades/
+
+[comment]: <> (* Video 1)
+
+[comment]: <> (* )
 
 
 
@@ -622,9 +644,11 @@ Las funciones discretas son muy usadas en computación (-)ya que el mundo digita
 curso introductorio en Python), análisis de seniales y en el mundo de la data, ya que es una manera apropiada de modelar ciertos fenómenos como
 nuestra fábrica de galletitas.
 
-**Material adicional:**
-* Lectura 1
-* Video 1
+[comment]: <> (**Material adicional:**)
+
+[comment]: <> (* Lectura 1)
+
+[comment]: <> (* Video 1)
 
 ## Función multivariable: concepto
 
