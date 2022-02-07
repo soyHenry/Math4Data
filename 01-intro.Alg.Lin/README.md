@@ -135,7 +135,7 @@ por las dimensiones de mi vector ya descrito antes y 4 por cada línea que repre
 Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona;
 o sus columnas: en este caso cada columna representa diferentes valores de una característica física diferente.
 
-<img  src='./figuras/dim.png' height='150px'>
+<img  src='./figuras/dim.png' height='100px'>
 
 En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos
 (tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector
@@ -144,9 +144,9 @@ como para que justifique cada uno su existencia: queremos una matriz muy grande 
 
 Por ahora, es importante saber que se puede realizar operaciones entre matrices como entre vectores como la suma y la multiplicación.
 
-<img  src='./figuras/summ.png' height='350px'>
+<img  src='./figuras/summ.png' height='400px'>
 
-<img  src='./figuras/prodm.png' height='350px'>
+<img  src='./figuras/prodm.png' height='400px'>
 
 **Material adicional:**
 
