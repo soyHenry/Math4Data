@@ -19,7 +19,7 @@ Vamos!
 ## Temario
 
 * Vector: dimensionalidad, dirección, módulo
-* Productos escalar y vectorial
+* Productos entre vectores
 * Matrices y sus operaciones básicas
 
 ## Vector
@@ -63,14 +63,14 @@ de sus componentes al cuadrado:
 Se dice que un vector esta normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una
 de sus componentes por el valor de su módulo (también llamado norma).
 
-<img  src='./figuras/dir1.png' height='150px'>
+<img  src='./figuras/dir1.png' height='250px'>
 
 Para calcular la dirección de un vector, se utiliza el ángulo que forma en el espacio con la horizontal. Teniendo en cuenta
 que un vector con origen en el origen de coordenadas es la hipotenusa de un triángulo rectángulo, podemos encontrar
 el ángulo que define su dirección como:
 
 
-<img  src='./figuras/dir2.png' height='150px'>
+<img  src='./figuras/dir2.png' height='250px'>
 
 Los vectores pueden **sumarse** entre si, siempre y cuando tengan la misma dimensión simplemente sumando cada una de sus componentes.
 También puede multiplicarse por un escalar
@@ -90,9 +90,23 @@ Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve 
   * https://www.fisic.ch/contenidos/introducci%C3%B3n-a-la-f%C3%ADsica/vectores/
   * https://economipedia.com/definiciones/modulo-de-un-vector.html
   * https://www.matesfacil.com/BAC/geometria2D/diferencias-modulo-direccion-sentido-vector-longitud-ejemplos.html
-[comment]: <> (* Video 1)
 
-## Productos escalar y vectorial
+
+## Productos entre vectores
+
+Hay dos tipos de producto entre vectores con usos y significados bien diferentes. La primer diferencia, como su nombre lo indica,
+es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto cruz da como resultado un escalar y se obtiene
+como la suma del producto de las componentes de ambos vectores. El producto **vectorial** también llamado producto cruz da como resultado un vector
+y la manera de obtenerlo es un poco mas compleja y no veremos en detalle.
+
+Otra manera de calcular el producto escalar es multiplicando entre si la norma de cada vector y el coseno del ángulo
+que se forma entre ellos:
+
+<img  src='./figuras/pesc.png' height='250px'>
+
+
+Esta interpretación es muy útil ya que nos permite saber rápidamente si dos vectores son paralelos (**cos(0)=1**), antiparalelos
+(**cos(180)=-1**) o perpendiculares (**cos(90)=0**).
 
 https://economipedia.com/definiciones/producto-escalar-definicion-geometrica.html
 
