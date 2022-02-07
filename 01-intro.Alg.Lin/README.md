@@ -135,7 +135,7 @@ por las dimensiones de mi vector ya descrito antes y 4 por cada línea que repre
 Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona;
 o sus columnas: en este caso cada columna representa diferentes valores de una característica física diferente.
 
-<img  src='./figuras/dim.png' height='250px'>
+<img  src='./figuras/dim.png' height='150px'>
 
 En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos
 (tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector
@@ -147,6 +147,7 @@ Por ahora, es importante saber que se puede realizar operaciones entre matrices 
 <img  src='./figuras/summ.png' height='350px'>
 
 <img  src='./figuras/prodm.png' height='350px'>
+
 **Material adicional:**
 
 * Lectura https://economipedia.com/definiciones/operaciones-con-matrices.html#:~:text=Las%20operaciones%20con%20matrices%20son,la%20divisi%C3%B3n%20y%20la%20multiplicaci%C3%B3n.&text=La%20dimensi%C3%B3n%20de%20una%20matriz,la%20dimensi%C3%B3n%20de%20las%20columnas.
