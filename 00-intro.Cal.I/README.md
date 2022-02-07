@@ -666,6 +666,13 @@ este límite no podemos entonces representar gráficamente mas que cortes o enfo
 
 Todo el cálculo que vimos en este curso con sus límites, derivadas y análisis funcional existe por supuesto para multiples dimensiones,
 y se vuelve (un poquito...) mas complejo. No vamos a entrar en detalles pero si te interesa te invito a leer mas sobre este mundo pasionante.
+Un concepto que vale la pena mencionar es el de **gradiente** ya que se utiliza mucho en machine learning, modelado  otras aplicaciones que nos interesan.
+El **gradiente** es el equivalente a la derivada que hemos visto pero para funciones multivariables. La derivdad es la medida
+del crecimiento (o decrecimiento) de una función de una variable y se expresa con un escalar (un número). Este mismo concepto de puede aplicar a funciones multivariables, pero como 
+ahora hay muchas direcciones diferentes para un mismo punto y cada dirección tiene su propia medida de crecimiento, se expresa con un grupo de vectores (es decir, un grupo de flechitas posicionadas en el 
+espacio que apuntan hacia la dirección de máximo crecimiento).
+
+<img  src='./figuras/grad.png' height='300px'>
 
 Esta imágen muestra a la iquierda una curva en 3D. Si cortamos mentalmente donde indica el arco rojo y proyectamos en 
 un plano, obtenemos una simple parábola como vemos a la derecha.
