@@ -20,13 +20,13 @@ Vamos!
 
 * Vector: dimensionalidad, dirección, módulo
 * Productos entre vectores
-* Matrices y sus operaciones básicas
+* Matrices 
 
 ## Vector
 
 Aunque no lo creas, utilizamos vectores constantemente en nuestra vida. Por ejemplo cuando
 describimos un objeto o fenómeno, usamos varias dimensiones y no un simple escalar. Si queremos
-decribir fisicamente una persona en general decimos **sexo, edad, altura, color de pelo y ojos**, 
+decribir físicamente una persona en general decimos **sexo, edad, altura, color de pelo y ojos**, 
 y no simplemente **7,23**. Sin saberlo, estamos usando un **vector**.
 
 En este ejemplo, estamos usando un vector de **dimension** 5, compuesto por las variables:
@@ -108,9 +108,12 @@ que se forma entre ellos:
 Esta interpretación es muy útil ya que nos permite saber rápidamente si dos vectores son paralelos (**cos(0)=1**), antiparalelos
 (**cos(180)=-1**) o perpendiculares (**cos(90)=0**).
 
-https://economipedia.com/definiciones/producto-escalar-definicion-geometrica.html
 
-## Matrices y sus operaciones básicas: suma, producto, determinante (y su significado)
+**Material adicional:**
+
+* Lectura https://economipedia.com/definiciones/producto-escalar-definicion-geometrica.html
+
+## Matrices
 
 Volviendo al ejemplo del principio, naturalmente podemos querer describir muchas personas a la vez.
 Para ello, podemos hacer:
@@ -128,6 +131,27 @@ Para ello, podemos hacer:
 
 De esta manera, acabamos de utilizar una matriz de dimension 5x4, es decir con 5 columnas determinadas
 por las dimensiones de mi vector ya descrito antes y 4 por cada línea que representa aquí una persona diferente.
+
+Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona;
+o sus columnas: en este caso cada columna representa diferentes valores de una característica física diferente.
+
+<img  src='./figuras/dim.png' height='250px'>
+
+En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos
+(tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector
+de *features* como en este caso. Mas adelante nos van a interesar cosas como si los vectores de una matriz son lo suficientemente diferentes entre si
+como para que justifique cada uno su existencia: queremos una matriz muy grande si muchos de sus vectores son el mismo o muy parecido o podemos "resumirla"?
+
+Por ahora, es importante saber que se puede realizar operaciones entre matrices como entre vectores como la suma y la multiplicación.
+
+<img  src='./figuras/summ.png' height='350px'>
+
+<img  src='./figuras/prodm.png' height='350px'>
+**Material adicional:**
+
+* Lectura https://economipedia.com/definiciones/operaciones-con-matrices.html#:~:text=Las%20operaciones%20con%20matrices%20son,la%20divisi%C3%B3n%20y%20la%20multiplicaci%C3%B3n.&text=La%20dimensi%C3%B3n%20de%20una%20matriz,la%20dimensi%C3%B3n%20de%20las%20columnas.
+
+
 
 
 
