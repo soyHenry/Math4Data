@@ -672,7 +672,7 @@ del crecimiento (o decrecimiento) de una función de una variable y se expresa c
 ahora hay muchas direcciones diferentes para un mismo punto y cada dirección tiene su propia medida de crecimiento, se expresa con un grupo de vectores (es decir, un grupo de flechitas posicionadas en el 
 espacio que apuntan hacia la dirección de máximo crecimiento).
 
-<img  src='./figuras/grad.png' height='300px'>
+<img  src='./figuras/grad.png' height='200px'>
 
 Esta imágen muestra a la iquierda una curva en 3D. Si cortamos mentalmente donde indica el arco rojo y proyectamos en 
 un plano, obtenemos una simple parábola como vemos a la derecha.
