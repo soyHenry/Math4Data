@@ -53,16 +53,43 @@ refleja en cada uno de los 3 ejes:
 Los vectores se puede describir en base a sus componentes cartesianos, como vimos hasta ahora, 
 o mediante su **módulo** y **dirección**. 
 
-<img  src='./figuras/vector2.png' height='150px'>
+<img  src='./figuras/mod.png' height='150px'>
 
-<img  src='./figuras/vector3.png' height='300px'>
+El módulo de un vector **v** se designa como **|v|** y se calcula como la raíz cuadrada de la suma
+de sus componentes al cuadrado:
 
-<img  src='./figuras/vector4.png' height='500px'>
+<img  src='./figuras/mod2.png' height='150px'>
+
+Se dice que un vector esta normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una
+de sus componentes por el valor de su módulo (también llamado norma).
+
+<img  src='./figuras/dir1.png' height='150px'>
+
+Para calcular la dirección de un vector, se utiliza el ángulo que forma en el espacio con la horizontal. Teniendo en cuenta
+que un vector con origen en el origen de coordenadas es la hipotenusa de un triángulo rectángulo, podemos encontrar
+el ángulo que define su dirección como:
+
+
+<img  src='./figuras/dir2.png' height='150px'>
+
+Los vectores pueden **sumarse** entre si, siempre y cuando tengan la misma dimensión simplemente sumando cada una de sus componentes.
+También puede multiplicarse por un escalar
+(es decir un número no vectorial) multiplicando el mismo por las componentes del vector. 
+
+Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve un poquito mas compleja y lo mostramos a continuación.
+
+
+[comment]: <> (<img  src='./figuras/vector3.png' height='300px'>)
+
+[comment]: <> (<img  src='./figuras/vector4.png' height='500px'>)
 
 **Material adicional:**
 
-* Lectura https://matematicasconmuchotruco.wordpress.com/2014/10/29/vectores-en-el-espacio/
-
+* Lectura 
+  * https://matematicasconmuchotruco.wordpress.com/2014/10/29/vectores-en-el-espacio/
+  * https://www.fisic.ch/contenidos/introducci%C3%B3n-a-la-f%C3%ADsica/vectores/
+  * https://economipedia.com/definiciones/modulo-de-un-vector.html
+  * https://www.matesfacil.com/BAC/geometria2D/diferencias-modulo-direccion-sentido-vector-longitud-ejemplos.html
 [comment]: <> (* Video 1)
 
 ## Productos escalar y vectorial
