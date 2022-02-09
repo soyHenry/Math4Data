@@ -26,7 +26,7 @@ Vamos!
 
 Aunque no lo creas, utilizamos vectores constantemente en nuestra vida. Por ejemplo cuando
 describimos un objeto o fenómeno, usamos varias dimensiones y no un simple escalar. Si queremos
-decribir físicamente una persona en general decimos **sexo, edad, altura, color de pelo y ojos**, 
+describir físicamente una persona en general decimos **sexo, edad, altura, color de pelo y ojos**, 
 y no simplemente **7,23**. Sin saberlo, estamos usando un **vector**.
 
 En este ejemplo, estamos usando un vector de **dimension** 5, compuesto por las variables:
@@ -44,7 +44,7 @@ Este vector tiene variables cuantitativas y cualitativas. Ya aprenderemos a trab
 con ambos tipos durante esta carrera, pero por ahora nos vamos a concentrar en vectores
 donde todos sus elementos son números reales.
 
-La siguiente figura muestra un vector de dimension 3 dibujado en el espacio, donde cada una de sus componentes se
+La siguiente figura muestra un vector de dimensión 3 dibujado en el espacio, donde cada una de sus componentes se
 refleja en cada uno de los 3 ejes:
 
 
@@ -60,7 +60,7 @@ de sus componentes al cuadrado:
 
 <img  src='./figuras/mod2.png' height='150px'>
 
-Se dice que un vector esta normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una
+Se dice que un vector está normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una
 de sus componentes por el valor de su módulo (también llamado norma).
 
 <img  src='./figuras/dir1.png' height='250px'>
@@ -72,11 +72,11 @@ el ángulo que define su dirección como:
 
 <img  src='./figuras/dir2.png' height='250px'>
 
-Los vectores pueden **sumarse** entre si, siempre y cuando tengan la misma dimensión simplemente sumando cada una de sus componentes.
+Los vectores pueden **sumarse** entre sí, siempre y cuando tengan la misma dimensión simplemente sumando cada una de sus componentes.
 También puede multiplicarse por un escalar
 (es decir un número no vectorial) multiplicando el mismo por las componentes del vector. 
 
-Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve un poquito mas compleja y lo mostramos a continuación.
+Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve un poquito más compleja y lo mostramos a continuación.
 
 
 [comment]: <> (<img  src='./figuras/vector3.png' height='300px'>)
@@ -97,9 +97,9 @@ Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve 
 Hay dos tipos de producto entre vectores con usos y significados bien diferentes. La primer diferencia, como su nombre lo indica,
 es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto cruz da como resultado un escalar y se obtiene
 como la suma del producto de las componentes de ambos vectores. El producto **vectorial** también llamado producto cruz da como resultado un vector
-y la manera de obtenerlo es un poco mas compleja y no veremos en detalle.
+y la manera de obtenerlo es un poco más compleja y no veremos en detalle.
 
-Otra manera de calcular el producto escalar es multiplicando entre si la norma de cada vector y el coseno del ángulo
+Otra manera de calcular el producto escalar es multiplicando entre sí la norma de cada vector y el coseno del ángulo
 que se forma entre ellos:
 
 <img  src='./figuras/pesc.png' height='250px'>
@@ -129,7 +129,7 @@ Para ello, podemos hacer:
 4.(X, 40, 1.80, marron, celeste)
 
 
-De esta manera, acabamos de utilizar una matriz de dimension 5x4, es decir con 5 columnas determinadas
+De esta manera, acabamos de utilizar una matriz de dimensión 5x4, es decir con 5 columnas determinadas
 por las dimensiones de mi vector ya descrito antes y 4 por cada línea que representa aquí una persona diferente.
 
 Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona;
@@ -139,7 +139,7 @@ o sus columnas: en este caso cada columna representa diferentes valores de una c
 
 En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos
 (tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector
-de *features* como en este caso. Mas adelante nos van a interesar cosas como si los vectores de una matriz son lo suficientemente diferentes entre si
+de *features* como en este caso. Más adelante nos van a interesar cosas como si los vectores de una matriz son lo suficientemente diferentes entre sí
 como para que justifique cada uno su existencia: queremos una matriz muy grande si muchos de sus vectores son el mismo o muy parecido o podemos "resumirla"?
 
 Por ahora, es importante saber que se puede realizar operaciones entre matrices como entre vectores como la suma y la multiplicación.
