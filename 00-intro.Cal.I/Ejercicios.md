@@ -28,7 +28,7 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
     e- X% de 3500 es 2500
 
 **4)** De shopping compré varias prendas por un valor de 350$. Había una promo del 30% sobre la cual se aplico luego
-un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la respuesta a su PRIMER número decimal
+un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la respuesta a su PRIMER número decimal.
 
     a- De qué porcentaje fue el descuento con la tarjeta de fidelidad?
     b- Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad?
@@ -130,4 +130,26 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 **12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
 
 <img  src='./figuras/EX_12.png' height='270px'>
+
+**13)** Calcula los siguientes límites. Redondea la respuesta a su PRIMER número decimal o responde inf en caso de infinito o -inf en caso de menos infinito.
+
+    a- lim x->2 de f(x) = 2*x + 1
+    b- lim x->0+ de f(x) = 1 - 1/x
+    c- lim k->inf de g(k) = 10 + 1/log(k)
+    d- lim h->10 de g(h) = 1/(h-10)
+    e- lim t->5 de d(t) = 25-t^2
+    f- lim x->-inf de f(x) = 1 - 1/x si x>0
+                            -3 si x<=0
+
+
+**14)** Responde V o F - continuidad
+
+**15)** Responde V o F - derivabilidad
+
+deriv o no en tal punto
+deriv en tal punto es mayor que en otro
+deriv en tal punto es + o -
+
+**16)** Usando una tabla de derivadas, calcula el valor de la derivada en el punto indicado y redondea la respuesta a su PRIMER número decimal.
     
+**17)** Responde V o F en cada caso:
