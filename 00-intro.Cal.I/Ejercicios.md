@@ -84,4 +84,50 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 **9)** Para cada gráfica, responde si V o F "es función":
 
 <img  src='./figuras/EX_9.png' height='270px'>
-<img  src='./figuras/EX_9b.png' height='270px'>
+<img  src='./figuras/EX_9b.png' height='150px'>
+
+
+**10)** Para cada tabla, elige la función correspondiente.
+
+
+<img  src='./figuras/EX_10.png' height='270px'>
+
+    -A 
+        i- f(x)= 4*x+1
+        ii- f(x)= 3*x+2
+        iii- f(x)= 3*x+1
+        iv- f(x)= 5*x
+
+    -B 
+        i- f(x)= 2*x
+        ii- f(x)= x^2+1
+        iii- f(x)= 4*x
+        iv- f(x)= x^2
+
+    -C 
+        i- f(x)= x/3
+        ii- f(x)= x/2 + 1
+        iii- f(x)= 0.5 * x
+        iv- f(x)= 0.3 * x + 2
+
+**11)** Sobre las funciones del ejercicio anterior, responde V o F.
+
+    -A  
+        - pendiente = 4
+        - ordenada al origen = 2
+        - no es una recta
+
+    -B  
+        - pendiente = 2
+        - ordenada al origen = 0
+        - no es una recta
+
+    -C  
+        - pendiente = 0.5
+        - ordenada al origen = 1
+        - no es una recta
+
+**12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
+
+<img  src='./figuras/EX_12.png' height='270px'>
+    
