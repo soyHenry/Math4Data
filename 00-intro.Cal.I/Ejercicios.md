@@ -73,3 +73,15 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
     d- 0 =
         i- cos(180)
         ii- tg(180)
+
+**8)** Responde V o F.
+
+    a- log(3+4) = log(7)
+    b- log(20) = log(10)+log(10)
+    c- 2*log(5) = log(25)
+    d- log(24) - 3*log(2) = log(3)
+
+**9)** Para cada gráfica, responde si V o F "es función":
+
+<img  src='./figuras/EX_9.png' height='270px'>
+<img  src='./figuras/EX_9b.png' height='270px'>
