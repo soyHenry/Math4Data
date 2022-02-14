@@ -20,24 +20,24 @@
 Según su naturaleza; existen los siguientes tipos de números
 
 * **Naturales**: 0, 1, 2, … (enteros, es decir sin coma, mayores o iguales que cero)
-* **Enteros**: -2, -1, 0, 1…(Naturales + los enteros negativos)
+* **Enteros**: -2, -1, 0, 1…(naturales + los enteros negativos)
 * **Reales**
   * *Racionales*: números con coma que pueden representarse como una fracción 
   1.223, 100002.44
-  * *Irracionales*: números con coma que NO pueden representarse como una fracción y tienen infinitos digitos tras la coma 
-  Típicos ejemplos son el famoso “Pi”, “e” o el “numero de oro” (mas info http://xtec.cat/~fgonzal2/curio_irrac.html)
+  * *Irracionales*: números con coma que NO pueden representarse como una fracción y tienen infinitos dígitos tras la coma 
+  Los ejemplos típicos son el famoso “Pi”, “e” o el “numero de oro” (mas info http://xtec.cat/~fgonzal2/curio_irrac.html)
 
-Cada uno de estos grupos, o conjuntos, tienen infinitos elementos. Es decir, para cualquier numero elegido siempre va a haber un numero mayor (o menor en el caso de un negativo). El concepto de infinito es recurrente en matematica.
+Cada uno de estos grupos, o conjuntos, tienen infinitos elementos. Es decir, para cualquier número elegido siempre va a haber un número mayor (o menor en el caso de un negativo). El concepto de infinito es recurrente en matemática.
 
-Una fracción es una división entre dos números. En muchas aplicaciones se usa la nomenclatura XYdonde X e Y son diferentes números Enteros. Por ejemplo, en vez de 0.5 se puede escribir 12y se lee “un medio” o mundanamente “la mitad”. Mas en http://hnaranjo.com/blog/numeros-racionales/.
+Una fracción es una división entre dos números. En muchas aplicaciones se usa la nomenclatura XY donde X e Y son diferentes números Enteros. Por ejemplo, en vez de 0.5 se puede escribir 1/2 y se lee “un medio” o mundanamente “la mitad”. Mas en http://hnaranjo.com/blog/numeros-racionales/.
 
-Como podes imaginar, la ventaja de los números racionales es que por mas “largos” que sean (largos=digitos después de la coma) siempre se pueden representar en su totalidad. En cambio, un número irracional no se puede representar totalmente en una cantidad finita de digitos.
+Como puedes imaginar, la ventaja de los números racionales es que por más “largos” que sean (largos=dígitos después de la coma) siempre se pueden representar en su totalidad. En cambio, un número irracional no se puede representar totalmente en una cantidad finita de dígitos.
 
 Cada tipo tiene usos diferentes. Por ejemplo, en programación un número entero no se guarda en memoria de la misma manera que un racional. Otra diferencia existe en el uso de distintos tipos de números para representar la realidad a través de datos en algoritmos de machine learning. 
 
 Si buscas en internet vas a encontrar más categorías como los complejos, imaginarios, periódicos cuya definición es interesante pero menos relevante a este curso. 
 
-En el siguiente grafico vas a encontrar las relaciones entre los conjuntos mencionados.
+En el siguiente gráfico vas a encontrar las relaciones entre los conjuntos mencionados.
 
 <img  src='./figuras/type_num.png' height='370px'>
 
@@ -67,13 +67,13 @@ Usamos porcentajes para relacionar cualquier número a 100. Cuando decimos “el
 
 * número decimal:
 
-       30% es lo mismo que 30/100que es lo mismo que 0,3.
+       30% es lo mismo que 30/100 que es lo mismo que 0,3.
        Entonces, podemos hacer directamente 0,3 * 2000 = 600
 
 
 Naturalmente, las 3 opciones llevan al mismo cálculo y resultado. Podes elegir la que te resulte más sencilla.			
 
-Por último, un porcentaje no es necesariamente un número menor. Por ejemplo, el 230% de 2000 es
+Por último, un porcentaje no es necesariamente un número menor. Por ejemplo, el 230% de 2000 es:
 
     X=230*2000 / 100 = 4600
     230/100* 2000 = 4600
@@ -134,7 +134,7 @@ Entonces, el seno(90°)=1 y el coseno(90°)=0. En la sección Gráficos, veremos
 
 ### Operar con logaritmos y potencias
 
-Esta sección es meramente operatoria asi que iremos directo al grano con algunas lecturas propuestas:
+Esta sección es meramente operatoria así que iremos directo al grano con algunas lecturas propuestas:
 
 Para entender:
 https://miprofe.com/propiedades-de-la-potenciacion-y-logaritmo/
@@ -154,9 +154,8 @@ https://www.superprof.es/apuntes/escolar/matematicas/algebra/log/ejercicios-de-l
 
 Uno de los conceptos más importante del análisis matemático, y sin dudas el más importante de este módulo, es el de **función**. 
 Una **función** es una relación entre elementos de **entrada** y elementos de **salida**. 
-También podemos pensar a una función como una fábrica 
-a la cual entran elementos y salen otros. 
-Por ejemplo, una fábrica de galletitas utiliza 10gr de azúcar por paquete de 20. Por cada gramo de azúcar que entra a la fábrica, sale una galletita y cada 20 galletitas, un paquete.
+También podemos pensar a una función como una fábrica a la cual entran elementos y salen otros. 
+Por ejemplo, una fábrica de galletitas utiliza 10 gr de azúcar por paquete de 20 galletitas. Por cada gramo de azúcar que entra a la fábrica, sale una galletita y cada 20 galletitas, un paquete.
 
 Esta relación se puede escribir en forma de tabla de la siguiente forma:
 
@@ -173,7 +172,7 @@ En cuanto a cantidad de paquetes, la relación es de
 
 ii- **paquetes = galletitas / 10**
 
-Para obtener el numero de paquetes en función de la cantidad de azúcar y no del número de galletitas,
+Para obtener el número de paquetes en función de la cantidad de azúcar y no del número de galletitas,
 podemos reemplazar [**galletitas**] por su equivalente [**gramos_azúcar * 2**] y nos queda
 
 iii- **paquetes = [gramos_azúcar * 2] / 10 = gramos_azúcar / 5**
@@ -188,7 +187,7 @@ y **paquetes = p**. Entonces
 iv- **g = 2 * a** .
 
 Para los paquetes podemos definir dos relaciones, en función de gramos de azúcar y en función de galletitas.
-Para aclarar en función de qué cantidad esta definida la relación, se usan paréntesis:
+Para aclarar en función de qué cantidad está definida la relación, se usan paréntesis:
 
 v- **p(g) = g / 10** 
 
@@ -206,37 +205,36 @@ y
 
 ### Dominio e imágen
 
-Las relaciones que definimos hasta ahora, en principio, no definen que rango permite en entrada.
-Por ejemplo, si entran 10M de gramos en un dia, la fábrica satura y no puede fabricar al mismo 
-ritmo que antes. Para establecer en que rango de entrada una función es válida se define su **dominio**.
+Las relaciones que definimos hasta ahora, en principio, no definen qué rango permite la entrada.
+Por ejemplo, si entran 10M de gramos en un día, la fábrica satura y no puede fabricar al mismo 
+ritmo que antes. Para establecer en qué rango de entrada una función es válida se define su **dominio**.
 En nuestro ejemplo, podemos decir que el dominio de iv es D={0,10M} (de 0 a 10M) ya que 
-valores negativos no tienen sentido en este caso y a partir de 10M la fabrica satura y fabrica mas 
-lentamente. Otro concepto importante es el de **imagen**. La imagen de una funcion es el rango de datos de salida
+valores negativos no tienen sentido en este caso y a partir de 10M la fábrica satura y fabrica mas 
+lentamente. Otro concepto importante es el de **imagen**. La imagen de una función es el rango de datos de salida
 de la misma y depende del dominio. Para iv, con el dominio que hemos definido, la Im={0,20M}.
 
 Toda función posee un dominio e imagen natural que pueden ser luego restringidos por razones prácticas.
-En nuestro ejemplo, el dominio natural es Dom={-inf, inf}=R (se lee de menos infinito a infinito, que es equivalente a R, todos los numero reales existentes) ya que la funcion admite como entrada cualquier
-número. Un contra ejemplo sería la función **y = 1/x** ya que ESTA PROHIBIDO dividir por cero. Entonces,
-el dominio natural de esta función es Dom=R-{0} (se lee todos los reales menos el 0).
+En nuestro ejemplo, el dominio natural es Dom={-inf, inf}=R (se lee de menos infinito a infinito, que es equivalente a R, todos los números reales existentes) ya que la funcioó admite como entrada cualquier
+número. Un contraejemplo sería la función **y = 1/x** ya que ESTÁ PROHIBIDO dividir por cero. Entonces, el dominio natural de esta función es Dom=R-{0} (se lee todos los reales menos el 0).
 
 ### Función partida
 
 Como hemos visto, toda función tiene su dominio e imagen naturales sobre lo que se puede definir un dominio igual o mas restrictivo
-en función del fenomeno que se desea describir. A veces, un fenomeno es mas complejo y se comporta de manera diferente
+en función del fenómeno que se desea describir. A veces, un fenomeno es más complejo y se comporta de manera diferente
 para distintos rangos de entrada. Para estos casos, podemos hacer uso de **funciones partidas**.
 
 <img  src='./figuras/funcion_partida.png' height='150px'>
 
 Como dijimos, la fábrica a partir de 10M g de azúcar ya no puede fabricar al mismo ritmo. 
-Hasta 10M g fabrica 20M galletitas. Si recibe mas azúcar, el restante (a - 10M) va a ser procesado 
+Hasta 10M g fabrica 20M galletitas. Si recibe más azúcar, el restante (a - 10M) va a ser procesado 
 menos eficazmente obteniendo solo 1 galletita por gramo y desperdiciando azúcar.
-Como vemos en la definición, la fábrica no acepta mas de 20M g de azúcar.
+Como vemos en la definición, la fábrica no acepta más de 20M g de azúcar.
 
 Con el concepto de dominio e imagen, podemos definir: 
 "Una función matemática es una relación que se establece entre dos conjuntos, a través de la cual a cada 
 elemento del primer conjunto (dominio) se le asigna un único elemento del segundo conjunto (imagen) o ninguno. "
 
-[comment]: <> (**video: mas ejemplos! puede ser la velocidad y algo que sube y baja)
+[comment]: <> (**video: más ejemplos! puede ser la velocidad y algo que sube y baja)
 
 [comment]: <> (mencionar variable dependiente, independiente**)
 
@@ -251,12 +249,12 @@ elemento del primer conjunto (dominio) se le asigna un único elemento del segun
 
 En teoría del cálculo, el gráfico de una función es el conjunto de puntos que resulta de asociar a cada elemento
 del dominio su imagen correspondiente. Podemos imaginar esta representación en formato de tabla como vimos al principio de la sección,
-donde cada linea representa un punto. 
+donde cada línea representa un punto. 
 
-Para permitir una lectura mas rapida e inteligible del comportamiento de una función, es muy usual
+Para permitir una lectura más rápida e inteligible del comportamiento de una función, es muy usual
 representar sus puntos en un **eje de coordenadas**.
 
-La variable que se representa en el eje horizontal se llama variable independiente (y se represetna muchas veces con la
+La variable que se representa en el eje horizontal se llama variable independiente (y se representa muchas veces con la
 letra x) mientras que la que se representa en el eje vertical se llama variable dependiente (y muchas veces la van a encontrar
 con el nombre de y).
 
@@ -287,7 +285,7 @@ Como pueden imaginar, existen muchísimas otras maneras de representar visualmen
 
 ## Ecuación de la recta
 
-La recta, su representación en el eje y su función asociada son de los elementos pas usados en la para representar 
+La recta, su representación en el eje y su función asociada son de los elementos más usados en la para representar 
 distintos fenómenos (con distintos niveles de aproximación) del mundo físico.
 
 Como vimos en nuestro ejemplo anterior, podemos modelizar la producción de galletitas de una fábrica en función 
@@ -303,14 +301,14 @@ lo cual da como resultado valores negativos de **g**. Otro aspecto fundamental d
 Una inclinación de 0 da como resultado una recta horizontal, paralela al eje **x** (o **a** en este ejemplo).
 En este caso, la inclinación es de **2** ya que por cada incremento de una unidad de la variable independiente **a**,
 la variable dependiente **g** aumenta de 2. El valor de la inclinación, también llamada pendiente, puede aumentar indefinidamente.
-Cuando este valor "tiende a" o "se parece a" infinito (veremos el concepto de tendencia mas adelante)
+Cuando este valor "tiende a" o "se parece a" infinito (veremos el concepto de tendencia más adelante)
 la recta resultante se parece a una vertical.
 
 [comment]: <> (**EJERCICIOS: dibujar rectas)
 
 [comment]: <> (es funcion o no)
 
-[comment]: <> (por que 'se parece a' y no 'es')
+[comment]: <> (por qué 'se parece a' y no 'es')
 
 [comment]: <> (VIDEO; mas ejemplos de casos modelizados lineales**)
 
@@ -320,7 +318,7 @@ Con estos conceptos, definimos la función que describe una recta como
 
 donde **a** corresponde a la **pendiente** y **b** se llama **coordenada al orígen** (y refiere al valor de la función que corresponde a x=0).
 
-La pendiente de una recta esta también intimamente relacionada con con ángulo que forma la recta con el eje horizontal, de la siguiente forma:
+La pendiente de una recta está también íntimamente relacionada con con ángulo que forma la recta con el eje horizontal, de la siguiente forma:
 
 **a = tan(ang)**
 
@@ -353,18 +351,18 @@ El dibujo de su gráfica es el siguiente:
 Como lo hemos mencionado, el dominio natural de esta función es D=R-{0} (todos los reales menos el 0) ya que
 no se admite dividir por cero. Por otro lado, cualquier otro número es válido en esa ecuación.
 
-Como dijimos, nos interesa entender como se comporta la función en cada punto y en particular si hay puntos
+Como dijimos, nos interesa entender cómo se comporta la función en cada punto y en particular si hay puntos
 donde su comportamiento es diferente. Tomemos un punto cualquiera, por ejemplo **a** (imagen). Queremos saber 
 qué pasa con **f(x)** cuando x "se acerca a" **a**. Como estamos en una dimensión, puedo acercarme a un elemento del 
-dominio por dos caminos: derecha o izquierda (numeros mayores que **a** o menores).
+dominio por dos caminos: derecha o izquierda (números mayores que **a** o menores).
 
 <img  src='./figuras/lim_izq.png' height='150px'>
 
 Si me acerco a **a** por izquierda (es decir, valores menores que **a** o también: **lim (-) x -> a**, límite
 por izquierda cuando **x** tiende a **a**) 
 siguiendo la flecha rosa en la imagen, se ve que 
-la función (**y = f(x)**) se va acercando a **f(a)**. Recuerden que el **limite** se interesa a lo
-que pasa **alredor**
+la función (**y = f(x)**) se va acercando a **f(a)**. Recuerden que el **límite** se interesa a lo
+que pasa **alrededor**
 de un punto, y no **en** en punto en si. Si ahora hago el mismo ejercicio acercándome por derecha
 (valores mayores que **a** o también: **lim (+) x -> a**, límite
 por derecha cuando **x** tiende a **a**) siguiendo la flecha
@@ -373,8 +371,8 @@ por izquierda.
 
 <img  src='./figuras/lim_der.png' height='150px'>
 
-Para el punto **a** podemos decir, entonces, que ambos limites por derecha e izquierda existen, son finitos e iguales.
-Ya se que a esta altura el análisis de limites parece bastante trivial y de poca utilidad, sigamos.
+Para el punto **a** podemos decir, entonces, que ambos límites por derecha e izquierda existen, son finitos e iguales.
+Ya se que a esta altura el análisis de límites parece bastante trivial y de poca utilidad, sigamos.
 
 Miremos ahora a ver qué pasa alrededor del punto **x=0** (no en **x=0** ya que es un 
 punto fuera del dominio donde la función ni siquiera está definida).
@@ -382,7 +380,7 @@ punto fuera del dominio donde la función ni siquiera está definida).
 <img  src='./figuras/lim_0.png' height='350px'>
 
 Si nos vamos acercando al 0 por derecha, vemos que los valores de la función se hacen cada vez mayores. Mientras
-mas chico sea el valor de **x**, mayor será el valor de **f(x)**. En este caso, se dice que el limite por derecha de la función cuando
+más chico sea el valor de **x**, mayor será el valor de **f(x)**. En este caso, se dice que el límite por derecha de la función cuando
 **x** tiende a **0** es **infinito** (o **lim (+) x-> 0 = Inf**). Este comportamiento donde los valores
 de una función se acercan infinitamente a un eje o una recta si jamás tocarlo se llama **asíntota**.
 Si nos acercamos al 0 por izquierda, vemos que los valores de la función se hacen cada vez menores
@@ -395,7 +393,7 @@ pero NO son finitos ni tampoco iguales entre sí.
 
 
 
-[comment]: <> (**ejercicios y videos mas ejemplos! hay miles, por ejemplo funcion escalonada. interesante ver su definicion )
+[comment]: <> (**ejercicios y videos mas ejemplos! Hay miles, por ejemplo función escalonada. interesante ver su definición)
 
 [comment]: <> (analitica**)
 
@@ -418,9 +416,9 @@ e iguales a **f(a)**, es decir, el valor de la función en el punto.
 
 Con estos 3 elementos:
 
-* Los limites por derecha e izquierda existen y son finitos
-* Los limites por derecha e izquierda son iguales entre sí
-* Los limites por derecha e izquierda son iguales al valor de la función en el punto
+* Los límites por derecha e izquierda existen y son finitos
+* Los límites por derecha e izquierda son iguales entre sí
+* Los límites por derecha e izquierda son iguales al valor de la función en el punto
 
 
 podemos entonces afirmar que "la función es **continua** en **a**".
@@ -440,11 +438,11 @@ El dominio de **k(x)** son todos los reales. En cualquier punto distinto de 0, *
 Qué sucede EN **x=0**? Analicemos si es continua:
 
 
-* Los limites por derecha e izquierda existen y son finitos? **NO**
-* Los limites por derecha e izquierda son iguales entre sí? **NO**
-* Los limites por derecha e izquierda son iguales al valor de la función en el punto? **NO**
+* Los límites por derecha e izquierda existen y son finitos? **NO**
+* Los límites por derecha e izquierda son iguales entre sí? **NO**
+* Los límites por derecha e izquierda son iguales al valor de la función en el punto? **NO**
 
-Ahora si podemos decir que la función **k(x)** es continua en R-{0} y es discontinua en 0.
+Ahora sí podemos decir que la función **k(x)** es continua en R-{0} y es discontinua en 0.
 
 Por último, veamos que sucede con **j(x)**, con dominio en todos los reales
 
@@ -453,9 +451,9 @@ Por último, veamos que sucede con **j(x)**, con dominio en todos los reales
 Qué sucede EN **x=2,5**? Analicemos si es continua:
 
 
-* Los limites por derecha e izquierda existen y son finitos? **SI**
-* Los limites por derecha e izquierda son iguales entre sí? **SI**: **lim (+) x -> 2,5 = lim (-) x -> 2,5 = 1/2,5** 
-* Los limites por derecha e izquierda son iguales al valor de la función en el punto? **NO**: **j(x) = 2,5 != 1/2,5**
+* Los límites por derecha e izquierda existen y son finitos? **SI**
+* Los límites por derecha e izquierda son iguales entre sí? **SI**: **lim (+) x -> 2,5 = lim (-) x -> 2,5 = 1/2,5** 
+* Los límites por derecha e izquierda son iguales al valor de la función en el punto? **NO**: **j(x) = 2,5 != 1/2,5**
 
 
 La función **j(x)** es continua en R-{0;2,5} y es discontinua en 0 y en 2,5. 
@@ -465,7 +463,7 @@ Los distintos tipos de discontinuidad son:
 
 <img  src='./figuras/type_disc.png' height='200px'>
 
-De los que podrás saber mas siguiendo el material adicional.
+De los que podrás saber más siguiendo el material adicional.
 
 **Material adicional:**
 * Lectura: https://www.funciones.xyz/tipos-de-discontinuidades/
@@ -485,20 +483,20 @@ Ahora, vamos a analizar si una función es
 **derivable** en su dominio.
 
 El concepto de derivabilidad se relaciona con que tan suave es una función, que a su vez es una medida de 
-la predescibilidad de lo que sucederá en un punto **x+a, a en R** conociendo lo que sucede en **x**. Saber que una función es
+la predecibilidad de lo que sucederá en un punto **x+a, a en R** conociendo lo que sucede en **x**. Saber que una función es
 continua es ya una gran ayuda en este sentido, ya que si conozco **f(x)** se que **f(x+a)** no puede estar muy lejos.
-Ahora, hay casos donde una función es continua y aún asi es dificil saber que pasar en **f(x+a)**. Imaginemos
-un pico "puntiagudo", si nos paramos en la cima del pico, cualquier pasito que demos por mas chiquito, 
-podemos ir a parar muy "lejos". En cambio, en una cima "suave" como la de una sierra, por mas que demos un paso
+Ahora, hay casos donde una función es continua y aún así es dificil saber que pasar en **f(x+a)**. Imaginemos
+un pico "puntiagudo", si nos paramos en la cima del pico, cualquier paso que demos por más chiquito, 
+podemos ir a parar muy "lejos". En cambio, en una cima "suave" como la de una sierra, por más que demos un paso
 grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguiente figura:
 
 <img  src='./figuras/intro_deriv.png' height='500px'>
 
-Mas concretamente, una función es derivable en un punto **x0** si se puede construir una recta tangente a la funcieon
-en ese punto. La pendiente de la recta tangente representa la taza de crecimiento (positivo, negativo o nulo) que presenta la
-función en ese punto. Entre las muchisimas aplicaciones de este concepto, esta el hecho de poder simplificar
+Más concretamente, una función es derivable en un punto **x0** si se puede construir una recta tangente a la función
+en ese punto. La pendiente de la recta tangente representa la tasa de crecimiento (positivo, negativo o nulo) que presenta la
+función en ese punto. Entre las muchísimas aplicaciones de este concepto, está el hecho de poder simplificar
 el comportamiento de una función compleja (o desconocida!) a una simple recta, siempre y cuando trabajemos de manera local (cerca del punto **x0**).
-Esta ida de trabajar "cerca de" un punto, o de subdividir un problema grande es muchas partes infinitecimales es 
+Esta idea de trabajar "cerca de" un punto, o de subdividir un problema grande es muchas partes infinitesimales es 
 central en el análisis matemático, como seguiremos viendo, y da origen a conocidas notaciones como
 **dx**.
 
@@ -529,9 +527,11 @@ con la derivada parcial y el diferencial.*
 
 <img  src='./figuras/der.png' height='200px'>
 
-Una vision que puede resultar práctica del concepto de derivada es la que sale de imaginar una recta secante que pasa por dos
+[Recuperado de Wikipedia](https://es.wikipedia.org/wiki/Derivada#:~:text=En%20c%C3%A1lculo%20diferencial%20y%20an%C3%A1lisis,valor%20de%20su%20variable%20independiente.&text=Por%20eso%20se%20habla%20del,funci%C3%B3n%20en%20un%20punto%20dado).
+
+Una visión que puede resultar práctica del concepto de derivada es la que sale de imaginar una recta secante que pasa por dos
 puntos *x* y *x+h* y luego hacemos *h* muy chiquito (*lim h -> 0*) hasta que *x* y *x+h* esten muy cerca
-y la recta secante se convierta en la tangente en *x*:
+y la recta secante se convierte en la tangente en *x*:
 
 
 
@@ -541,7 +541,7 @@ y la recta secante se convierta en la tangente en *x*:
 
 
 
-Para **calcular** el valor de una derivada en un punto, se debe resolver el limite planteado en la
+Para **calcular** el valor de una derivada en un punto, se debe resolver el límite planteado en la
 expresión siguiente
 
 
@@ -550,43 +550,43 @@ expresión siguiente
 
 
 
-que significa, literalmente, la taza de cambio de una función entre un punto **x** y su entorno muy cercano
+que significa, literalmente, la tasa de cambio de una función entre un punto **x** y su entorno muy cercano
 (**x+h** con **h -> 0**).
 
-En este curso no vamos a pedir que el alumno pueda resolver este ejercicio, sino qe vamos a usar tablas de derivadas que
-se encuentran facilmente en internet.
+En este curso no vamos a pedir que el alumno pueda resolver este ejercicio, sino que vamos a usar tablas de derivadas que
+se encuentran fácilmente en internet.
 
-Otra manera interesante de entender las derivadas es relacionando con la velocidad, como lo pueden ver en este video:
+Otra manera interesante de entender las derivadas es relacionandolas con la velocidad, como lo pueden ver en este video:
 
 https://www.youtube.com/watch?v=uK4-s0ojHFg&ab_channel=Matem%C3%A1ticasprofeAlex
 
 ### Análisis funcional y puntos críticos
 
-En general, hay ciertos puntos de una función que nos interesan mas que otros ya que definen momentos clave del fenómen
-que estan modelizando. 
+En general, hay ciertos puntos de una función que nos interesan más que otros ya que definen momentos clave del fenómeno
+que están modelizando. 
 
-Imaginemos que quiero determinar cuantas horas debería dormir por noche para estar óptima en rendimiento al dia siguiente.
+Imaginemos que quiero determinar cuántas horas debería dormir por noche para estar óptima en rendimiento al día siguiente.
 Podría diseniar un experimento en el cual cada dia duermo una cantidad distinta de horas, y al dia siguiente noto
 de 1 a 10 mi nivel de energía y obtener una curva de este estilo:
 
 <img  src='./figuras/max_hs_intro.png' height='200px'>
 
-Lo que quiero saber, claramente, es: cuantas horas corresponden al maximo de energía?
+Lo que quiero saber, claramente, es: ¿cuántas horas corresponden al máximo de energía?
 
 Una manera de resolver este ejercicio es usando derivadas. Para puntos anteriores al máximo las derivadas 
-(pendientes de la recta tangente) son postivas y cada vez mayores (la pendiente se va agudizando). Luego 
+(pendientes de la recta tangente) son positivas y cada vez mayores (la pendiente se va agudizando). Luego 
 del máximo, al contrario, las rectas son descendientes ergo sus pendientes negativas. Porque un teorema 
 dice (créanme) que en una función continua que pasa por valores positivos y negativos tiene que si o si haber pasado por cero (tiene sentido)
-y que para la gran mayoria de aplicaciones le derivada es una función continua en si misma, quiere decir que e valor de 
-la derivada tiene que ser cero en algun momento. En particular, es 0 cuando pasa de aumentar a disminuir, ergo,
-en el valor máximo de la función. Entonces, una manera de determinar cuando una función se maximiza es obteniendo
-el o los puntos en que su derivada es nula. Atención! Esto también sirve para los valores mínimos y los puntos de inflexión. 
+y que para la gran mayoría de aplicaciones la derivada es una función continua en si misma, quiere decir que el valor de 
+la derivada tiene que ser cero en algún momento. En particular, es 0 cuando pasa de aumentar a disminuir, ergo,
+en el valor máximo de la función. Entonces, una manera de determinar cuándo una función se maximiza es obteniendo
+el o los puntos en que su derivada es nula. ¡Atención! Esto también sirve para los valores mínimos y los puntos de inflexión. 
 
 
 <img  src='./figuras/max_hs_detail.png' height='200px'>
 
 
-Para distinguir entre un maximo, un minimo y un punto de inflexión se debe también tener en cuenta la concavidad de la curva (determinada por
+Para distinguir entre un máximo, un mínimo y un punto de inflexión se debe también tener en cuenta la concavidad de la curva (determinada por
 el signo de la derivada segunda) y los valores de la función antes y después del punto crítico.
 
 [comment]: <> (Ejemplo: análisis funcional completo)
@@ -604,7 +604,7 @@ mientras que la segunda refiere a una operación matemática y en particular cor
 <img  src='./figuras/int_def_2.png' height='400px'>
 
 
-Como con la derivación, la integral también plantea la division de la función en partecitas para calcular el área de cada una de ellas
+Como con la derivación, la integral también plantea la división de la función en partecitas para calcular el área de cada una de ellas
 y luego sumarlas. Esto se llama "sumas de Riemann" y es una parte clave del cálculo integral:
 
 <img  src='./figuras/riemann.png' height='400px'>
@@ -624,12 +624,12 @@ Respuesta en este texto:
 ## Función discreta: concepto
 
 Volviendo al ejemplo de nuestra fábrica de galletitas, no tiene sentido hablar de 1,5 galletitas o de 3,222 paquetes.
-en realidad, y sin mencionarlo, estabamos trabajando con una **función discreta**:
+en realidad, y sin mencionarlo, estábamos trabajando con una **función discreta**:
 
 <img  src='./figuras/f_dis1.png' height='150px'>
 
 Las funciones discretas son muy usadas en computación (-)ya que el mundo digital en si es discreto, como han visto en el
-curso introductorio en Python), análisis de seniales y en el mundo de la data, ya que es una manera apropiada de modelar ciertos fenómenos como
+curso introductorio en Python), análisis de señales y en el mundo de la data, ya que es una manera apropiada de modelar ciertos fenómenos como
 nuestra fábrica de galletitas.
 
 [comment]: <> (**Material adicional:**)
@@ -647,24 +647,24 @@ como hemos considerado pero también de cuánto personal hay presente en el día
 la disponibilidad de todos los ingredientes, etc. Ver solo el problema en función de la cantidad de harina
 es un enfoque preciso (o corte en el espacio multidimensional) de un problema mucho mayor.
 Cada variable agrega una dimensión en el espacio y por ende podemos tener gráficas en 2D, 3D, 4D,... 10D, etc.
-Lamentablemente, nuestro cerebro, no puede visualmente captar mas de 4 o 5 dimensiones (3D en volúmen+colores+tiempo). Mas allá de 
+Lamentablemente, nuestro cerebro, no puede visualmente captar más de 4 o 5 dimensiones (3D en volúmen+colores+tiempo). Más allá de 
 este límite no podemos entonces representar gráficamente mas que cortes o enfoques de nuestro problema.
 
-Todo el cálculo que vimos en este curso con sus límites, derivadas y análisis funcional existe por supuesto para multiples dimensiones,
-y se vuelve (un poquito...) mas complejo. No vamos a entrar en detalles pero si te interesa te invito a leer mas sobre este mundo pasionante.
+Todo el cálculo que vimos en este curso con sus límites, derivadas y análisis funcional existe por supuesto para múltiples dimensiones,
+y se vuelve (un poquito...) más complejo. No vamos a entrar en detalles pero si te interesa te invito a leer más sobre este mundo apasionante.
 Un concepto que vale la pena mencionar es el de **gradiente** ya que se utiliza mucho en machine learning, modelado  otras aplicaciones que nos interesan.
-El **gradiente** es el equivalente a la derivada que hemos visto pero para funciones multivariables. La derivdad es la medida
+El **gradiente** es el equivalente a la derivada que hemos visto pero para funciones multivariables. La derivada es la medida
 del crecimiento (o decrecimiento) de una función de una variable y se expresa con un escalar (un número). Este mismo concepto de puede aplicar a funciones multivariables, pero como 
-ahora hay muchas direcciones diferentes para un mismo punto y cada dirección tiene su propia medida de crecimiento, se expresa con un grupo de vectores (es decir, un grupo de flechitas posicionadas en el 
+ahora hay muchas direcciones diferentes para un mismo punto y cada dirección tiene su propia medida de crecimiento, se expresa con un grupo de vectores (es decir, un grupo de flechas posicionadas en el 
 espacio que apuntan hacia la dirección de máximo crecimiento).
 
 <img  src='./figuras/grad.png' height='200px'>
 
-Esta imágen muestra a la iquierda una curva en 3D. Si cortamos mentalmente donde indica el arco rojo y proyectamos en 
+Esta imágen muestra a la izquierda una curva en 3D. Si cortamos mentalmente donde indica el arco rojo y proyectamos en 
 un plano, obtenemos una simple parábola como vemos a la derecha.
 
 <img  src='./figuras/3d.png' height='300px'>
 
-Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje vertical, y en 3D obtenemos una curva de ste estilo:
+Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje vertical, y en 3D obtenemos una curva de este estilo:
 
 <img  src='./figuras/3d2.png' height='200px'>
