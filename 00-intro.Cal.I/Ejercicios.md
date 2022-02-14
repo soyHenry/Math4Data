@@ -48,7 +48,8 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
   - 90
 
 
-**6)** Para un triángulo rectángulo de cateto_1 = 2, cateto_2= 3 e hipotenusa = 3.6, responde (redondea la respuesta a su PRIMER número decimal):
+**6)** Para un triángulo rectángulo de cateto_1 = 2, cateto_2= 3 e hipotenusa = 3.6, responde sobre el ángulo
+menor (redondea la respuesta a su PRIMER número decimal):
 
     a- Cuál es su seno?
     b- Cuál es su coseno?
