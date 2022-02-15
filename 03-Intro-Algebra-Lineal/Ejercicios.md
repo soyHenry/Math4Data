@@ -45,12 +45,17 @@
 **7)** Realizar la multiplicación entre las siguientes matrices:
 
 a-
-<img  src='./figuras/producto1.png'><br>
+![unaImagenConBoxShadow](../_src/assets/ejercicios/producto1.png)
+<br>
 b-
-<img  src='./figuras/producto2.png'><br>
+![unaImagenConBoxShadow](../_src/assets/ejercicios/producto2.png)
+<br>
 c-
-<img  src='./figuras/producto3.png'><br>
+![unaImagenConBoxShadow](../_src/assets/ejercicios/producto3.png)
+<br>
 d-
-<img  src='./figuras/producto4.png'><br>
+![unaImagenConBoxShadow](../_src/assets/ejercicios/producto4.png)
+<br>
 e-
-<img  src='./figuras/producto5.png'><br>
+![unaImagenConBoxShadow](../_src/assets/ejercicios/producto5.png)
+<br>
