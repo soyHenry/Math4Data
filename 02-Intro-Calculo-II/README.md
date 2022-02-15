@@ -276,7 +276,7 @@ Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje ve
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://https://github.com/soyHenry/Math4Data/blob/main/02-Intro-Calculo-II/Ejercicios.md)
+Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/02-Intro-Calculo-II/Ejercicios.md)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>

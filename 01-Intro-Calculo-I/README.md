@@ -322,7 +322,7 @@ La pendiente de una recta está también íntimamente relacionada con con ángul
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://https://github.com/soyHenry/Math4Data/blob/main/01-Intro-Calculo-I/Ejercicios.md)
+Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/01-Intro-Calculo-I/Ejercicios.md)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>

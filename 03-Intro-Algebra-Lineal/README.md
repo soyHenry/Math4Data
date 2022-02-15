@@ -141,7 +141,7 @@ Por ahora, es importante saber que se puede realizar operaciones entre matrices 
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios.md)
+Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios.md)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
