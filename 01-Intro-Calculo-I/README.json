@@ -1,0 +1,9 @@
+{
+  "lessonTitle": "Introducción al Cálculo 1",
+  "permalink": "/Clase_Uno/",
+  "eleventyNavigation": {
+    "key": "Clase 1",
+    "order": 1
+  },
+  "feedbackID": "01 - Introducción al Calculo 1"
+}
