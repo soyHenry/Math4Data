@@ -82,7 +82,7 @@ Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve 
 ## Productos entre vectores
 
 Hay dos tipos de producto entre vectores con usos y significados bien diferentes. La primer diferencia, como su nombre lo indica,
-es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto cruz da como resultado un escalar y se obtiene
+es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto punto da como resultado un escalar y se obtiene
 como la suma del producto de las componentes de ambos vectores. El producto **vectorial** también llamado producto cruz da como resultado un vector
 y la manera de obtenerlo es un poco más compleja y no veremos en detalle.
 
