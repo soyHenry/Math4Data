@@ -273,3 +273,19 @@ un plano, obtenemos una simple parábola como vemos a la derecha.
 Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje vertical, y en 3D obtenemos una curva de este estilo:
 
 <img  src='./figuras/3d2.png' height='200px'>
+
+## Homework
+
+Completa la tarea descrita en el archivo [README](https://https://github.com/soyHenry/Math4Data/blob/main/02-Intro-Calculo-II/Ejercicios.md)
+
+<table class="hide" width="100%" style='table-layout:fixed;'>
+  <tr>
+    <td>
+      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
+        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
+        <br>
+        Hacé click acá para dejar tu feedback sobre esta clase.
+      </a>
+    </td>
+  </tr>
+</table>

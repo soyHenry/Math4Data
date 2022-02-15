@@ -139,10 +139,18 @@ Por ahora, es importante saber que se puede realizar operaciones entre matrices 
 
 * Lectura https://economipedia.com/definiciones/operaciones-con-matrices.html#:~:text=Las%20operaciones%20con%20matrices%20son,la%20divisi%C3%B3n%20y%20la%20multiplicaci%C3%B3n.&text=La%20dimensi%C3%B3n%20de%20una%20matriz,la%20dimensi%C3%B3n%20de%20las%20columnas.
 
+## Homework
 
+Completa la tarea descrita en el archivo [README](https://https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios.md)
 
-
-
-
-
-
+<table class="hide" width="100%" style='table-layout:fixed;'>
+  <tr>
+    <td>
+      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
+        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
+        <br>
+        Hacé click acá para dejar tu feedback sobre esta clase.
+      </a>
+    </td>
+  </tr>
+</table>
