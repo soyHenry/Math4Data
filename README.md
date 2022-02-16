@@ -1,10 +1,10 @@
 ![unaImagenConBoxShadow](_src/assets/logo.png)
 
-## Matemática para Data: una introducción
+## Matemática para Data: Temario
 
-* [00 - Introducción a Cálculo I](./00-intro.Cal.I)
-* [01 - Introducción a Algebra lineal](./01-intro.Alg.Lin)
-
+* [01 - Introducción a Cálculo (1ra Clase)]
+* [02 - Introducción a Cálculo (2da Clase)]
+* [03 - Introducción a Algebra lineal]
 
 ## Filosofia de este curso
 
