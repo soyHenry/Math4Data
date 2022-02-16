@@ -35,7 +35,7 @@ Si buscas en internet vas a encontrar más categorías como los complejos, imagi
 
 En el siguiente gráfico vas a encontrar las relaciones entre los conjuntos mencionados.
 
-<img  src='./figuras/type_num.png' height='370px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/type_num.png)
 
 [comment]: <> (**Material adicional:**)
 
@@ -90,20 +90,19 @@ Un ángulo se puede definir como la medida de abertura entre dos rectas. El conc
 
 En grados, una abertura nula corresponde a 0°. Cuando dos rectas tienen un ángulo de 0, se dice que son paralelas. Luego podemos ir agrandando el ángulo hasta 90°, donde los dos vectores son perpendiculares (ver en la imagen). Un cuadrado tiene cuatro ángulos de 90° que se llaman también ángulos rectos. Si seguimos agrandando en un momento volvemos a crear una horizontal, que es equivalente a dos veces una abertura recta o sea 180°. Con esta lógica, el ángulo se puede seguir agrandando hasta la posición inicial habiendo recorrido 360°. 360° corresponde entonces a la misma posición que 0°, pero indicando que se ha recorrido el círculo entero una vez (lo cual tiene aplicaciones en casos donde se analizan por ejemplo movimientos en función del tiempo).
 
-<img  src='./figuras/angles.png' height='270px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/angles.png)
 
 Solo porque nociones como seno y coseno son bastante usadas en cálculo y álgebra, vamos a refrescar los conceptos yendo a los puntos claves.
 
 Tomando cualquier ángulo entre dos rectas del ejemplo anterior, podemos trazar una recta (azul) más entre ambas y formar un triángulo.
 
-<img  src='./figuras/angle.png' height='100px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/angle.png)
 
 Si además la recta que trazamos forma un ángulo recto con alguna de las existentes (señalado en el ejemplo con un cuadradito), tenemos lo que se llama un triángulo recto el cual es muy utilizado entre otras cosas, por su seno y coseno.
 
 Esquema de un ángulo recto y el nombre que se les da a sus lados:
 
-<img  src='./figuras/triangle.png' height='270px'>
-
+![unaImagenConBoxShadow](../_src/assets/clase01/triangle.png)
 
 Cada uno de los lados (X,Y,H) tienen una medida (por ejemplo, en centímetros). En matemática, cuando nos referimos a la medida de un segmento usamos || alrededor de su nombre. En este caso, |X| es la medida del lado que hemos llamado X, por ejemplo 1,5 cm. Con estos
 conceptos en mente, seno, coseno y tangente del <span style="color:pink"> ángulo </span> en cuestión son:
@@ -155,7 +154,7 @@ Por ejemplo, una fábrica de galletitas utiliza 10 gr de azúcar por paquete de 
 
 Esta relación se puede escribir en forma de tabla de la siguiente forma:
 
-<img  src='./figuras/table1.png' height='150px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/table1.png)
 
 Para explicar el trabajo de esta fábrica de la manera más sencilla posible,
 nos conviene extraer la relación de manera numérica.
@@ -219,7 +218,7 @@ Como hemos visto, toda función tiene su dominio e imagen naturales sobre lo que
 en función del fenómeno que se desea describir. A veces, un fenomeno es más complejo y se comporta de manera diferente
 para distintos rangos de entrada. Para estos casos, podemos hacer uso de **funciones partidas**.
 
-<img  src='./figuras/funcion_partida.png' height='150px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/funcion_partida.png)
 
 Como dijimos, la fábrica a partir de 10M g de azúcar ya no puede fabricar al mismo ritmo.
 Hasta 10M g fabrica 20M galletitas. Si recibe más azúcar, el restante (a - 10M) va a ser procesado
@@ -256,15 +255,15 @@ con el nombre de y).
 
 **Representación de un punto en el eje de coordenadas**
 
-<img  src='./figuras/punto.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/punto.png)
 
 **Representación de la relación g(a) = 2 * a**
 
-<img  src='./figuras/recta_grafico.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/recta_grafico.png)
 
 **Representación de la función compuesta que define g(a)**
 
-<img  src='./figuras/f_compuesta_grafico.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/f_compuesta_grafico.png)
 
 Como pueden imaginar, existen muchísimas otras maneras de representar visualmente la relación entre datos además del eje de coordenadas!
 
@@ -287,7 +286,7 @@ distintos fenómenos (con distintos niveles de aproximación) del mundo físico.
 Como vimos en nuestro ejemplo anterior, podemos modelizar la producción de galletitas de una fábrica en función
 de los gramos de azúcar disponibles como **g(a) = 2 * a**. Su gráfica en ejes cartesianos tiene la forma:
 
-<img  src='./figuras/recta_grafico2.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/recta_grafico2.png)
 
 Como se puede ver, geométricamente esta función determina una **recta** que pasa por el origen
 de coordenadas, representado por un punto rojo cuando a=0 y g=0, o (0,0).
@@ -318,7 +317,7 @@ La pendiente de una recta está también íntimamente relacionada con con ángul
 
 **a = tan(ang)**
 
-<img  src='./figuras/pendiente.png' height='150px'>
+![unaImagenConBoxShadow](../_src/assets/clase01/pendiente.png)
 
 ## Homework
 
