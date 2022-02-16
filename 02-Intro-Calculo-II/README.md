@@ -1,4 +1,4 @@
-<img  src='../logo.png' height='70px'>
+![unaImagenConBoxShadow](../_src/assets/logo.png)
 
 # Introducción a Cálculo I
 
@@ -36,8 +36,7 @@ manera u otra en lugares donde no existe).
 Definamos ahora una función de **x** que llamaremos **k**, de manera que **k(x) = 1/x** cuando **x** sea distinto de
 0 y **k(x) = 0** cuando **x=0**:
 
-<img  src='./figuras/lim_0.png' height='350px'>
-
+![unaImagenConBoxShadow](../_src/assets/clase02/lim_0.png)
 
 El dominio de **k(x)** son todos los reales. En cualquier punto distinto de 0, **k** tiene las mismas características que la función **f(x)** que ya analizamos.
 Qué sucede EN **x=0**? Analicemos si es continua:
@@ -51,22 +50,20 @@ Ahora sí podemos decir que la función **k(x)** es continua en R-{0} y es disco
 
 Por último, veamos que sucede con **j(x)**, con dominio en todos los reales
 
-<img  src='./figuras/continuity2.png' height='350px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/continuity2.png)
 
 Qué sucede EN **x=2,5**? Analicemos si es continua:
-
 
 * Los límites por derecha e izquierda existen y son finitos? **SI**
 * Los límites por derecha e izquierda son iguales entre sí? **SI**: **lim (+) x -> 2,5 = lim (-) x -> 2,5 = 1/2,5**
 * Los límites por derecha e izquierda son iguales al valor de la función en el punto? **NO**: **j(x) = 2,5 != 1/2,5**
-
 
 La función **j(x)** es continua en R-{0;2,5} y es discontinua en 0 y en 2,5.
 La discontinuidad en el punto **x=2,5** es del tipo "evitable" mientras que en **x=0** es del tipo "inevitable de salto infinito".
 
 Los distintos tipos de discontinuidad son:
 
-<img  src='./figuras/type_disc.png' height='200px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/type_disc.png)
 
 De los que podrás saber más siguiendo el material adicional.
 
@@ -95,7 +92,7 @@ un pico "puntiagudo", si nos paramos en la cima del pico, cualquier paso que dem
 podemos ir a parar muy "lejos". En cambio, en una cima "suave" como la de una sierra, por más que demos un paso
 grande sabemos que no nos vamos a caer. Estos ejemplos se muestran en la siguiente figura:
 
-<img  src='./figuras/intro_deriv.png' height='500px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/intro_deriv.png)
 
 Más concretamente, una función es derivable en un punto **x0** si se puede construir una recta tangente a la función
 en ese punto. La pendiente de la recta tangente representa la tasa de crecimiento (positivo, negativo o nulo) que presenta la
@@ -104,7 +101,6 @@ el comportamiento de una función compleja (o desconocida!) a una simple recta, 
 Esta idea de trabajar "cerca de" un punto, o de subdividir un problema grande es muchas partes infinitesimales es
 central en el análisis matemático, como seguiremos viendo, y da origen a conocidas notaciones como
 **dx**.
-
 
 Wikipedia, sabiamente, describe:
 
@@ -130,7 +126,7 @@ La recta tangente es, a su vez, la gráfica de la mejor aproximación lineal de 
 dicho punto. La noción de derivada puede generalizarse para el caso de funciones de más de una variable
 con la derivada parcial y el diferencial.*
 
-<img  src='./figuras/der.png' height='200px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/der.png)
 
 [Recuperado de Wikipedia](https://es.wikipedia.org/wiki/Derivada#:~:text=En%20c%C3%A1lculo%20diferencial%20y%20an%C3%A1lisis,valor%20de%20su%20variable%20independiente.&text=Por%20eso%20se%20habla%20del,funci%C3%B3n%20en%20un%20punto%20dado).
 
@@ -139,21 +135,15 @@ puntos *x* y *x+h* y luego hacemos *h* muy chiquito (*lim h -> 0*) hasta que *x*
 y la recta secante se convierte en la tangente en *x*:
 
 
+![unaImagenConBoxShadow](../_src/assets/clase02/der_sec.png)
 
-<img  src='./figuras/der_sec.png' height='500px'>
-
-<img  src='./figuras/der_sec_im.png' height='300px'>
-
+![unaImagenConBoxShadow](../_src/assets/clase02/der_sec_im.png)
 
 
 Para **calcular** el valor de una derivada en un punto, se debe resolver el límite planteado en la
 expresión siguiente
 
-
-
-<img  src='./figuras/der_def.png' height='80px'>
-
-
+![unaImagenConBoxShadow](../_src/assets/clase02/der_def.png)
 
 que significa, literalmente, la tasa de cambio de una función entre un punto **x** y su entorno muy cercano
 (**x+h** con **h -> 0**).
@@ -174,7 +164,7 @@ Imaginemos que quiero determinar cuántas horas debería dormir por noche para e
 Podría diseniar un experimento en el cual cada dia duermo una cantidad distinta de horas, y al dia siguiente noto
 de 1 a 10 mi nivel de energía y obtener una curva de este estilo:
 
-<img  src='./figuras/max_hs_intro.png' height='200px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/max_hs_intro.png)
 
 Lo que quiero saber, claramente, es: ¿cuántas horas corresponden al máximo de energía?
 
@@ -188,8 +178,7 @@ en el valor máximo de la función. Entonces, una manera de determinar cuándo u
 el o los puntos en que su derivada es nula. ¡Atención! Esto también sirve para los valores mínimos y los puntos de inflexión.
 
 
-<img  src='./figuras/max_hs_detail.png' height='200px'>
-
+![unaImagenConBoxShadow](../_src/assets/clase02/max_hs_detail.png)
 
 Para distinguir entre un máximo, un mínimo y un punto de inflexión se debe también tener en cuenta la concavidad de la curva (determinada por
 el signo de la derivada segunda) y los valores de la función antes y después del punto crítico.
@@ -198,26 +187,24 @@ el signo de la derivada segunda) y los valores de la función antes y después d
 
 ## Integrales - Concepto
 
-
 Antes de empezar, es importante aclarar que existen dos tipos de integrales cuyo significado difiere completamente:
 *definidas* e *indefinidas*. La primera tiene una significación geométrica respecto de la curva que describe una función
 mientras que la segunda refiere a una operación matemática y en particular corresponde a la inversa de la derivada.
 
 ### Integrales definidas
 
-<img  src='./figuras/int_def_1.png' height='200px'>
-<img  src='./figuras/int_def_2.png' height='400px'>
-
+![unaImagenConBoxShadow](../_src/assets/clase02/int_def_1.png)
+![unaImagenConBoxShadow](../_src/assets/clase02/int_def_2.png)
 
 Como con la derivación, la integral también plantea la división de la función en partecitas para calcular el área de cada una de ellas
 y luego sumarlas. Esto se llama "sumas de Riemann" y es una parte clave del cálculo integral:
 
-<img  src='./figuras/riemann.png' height='400px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/riemann.png)
 
 Finalmente, cuál es la relación entre la integral definida y la indefinida, o la inversa de la derivada?
 Respuesta en este texto:
 
-<img  src='./figuras/barrow.png' height='300px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/barrow.png)
 
 **Material adicional:**
 * Lectura 1: https://www.fisicalab.com/apartado/derivabilidad-continuidad
@@ -231,7 +218,7 @@ Respuesta en este texto:
 Volviendo al ejemplo de nuestra fábrica de galletitas, no tiene sentido hablar de 1,5 galletitas o de 3,222 paquetes.
 en realidad, y sin mencionarlo, estábamos trabajando con una **función discreta**:
 
-<img  src='./figuras/f_dis1.png' height='150px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/f_dis1.png)
 
 Las funciones discretas son muy usadas en computación (-)ya que el mundo digital en si es discreto, como han visto en el
 curso introductorio en Python), análisis de señales y en el mundo de la data, ya que es una manera apropiada de modelar ciertos fenómenos como
@@ -263,16 +250,16 @@ del crecimiento (o decrecimiento) de una función de una variable y se expresa c
 ahora hay muchas direcciones diferentes para un mismo punto y cada dirección tiene su propia medida de crecimiento, se expresa con un grupo de vectores (es decir, un grupo de flechas posicionadas en el
 espacio que apuntan hacia la dirección de máximo crecimiento).
 
-<img  src='./figuras/grad.png' height='200px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/grad.png)
 
 Esta imágen muestra a la izquierda una curva en 3D. Si cortamos mentalmente donde indica el arco rojo y proyectamos en
 un plano, obtenemos una simple parábola como vemos a la derecha.
 
-<img  src='./figuras/3d.png' height='300px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/3d.png)
 
 Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje vertical, y en 3D obtenemos una curva de este estilo:
 
-<img  src='./figuras/3d2.png' height='200px'>
+![unaImagenConBoxShadow](../_src/assets/clase02/3d2.png)
 
 ## Homework
 
