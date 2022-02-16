@@ -2,9 +2,9 @@
 
 ## Matemática para Data: Temario
 
-* [01 - Introducción a Cálculo (1ra Clase)]
-* [02 - Introducción a Cálculo (2da Clase)]
-* [03 - Introducción a Algebra lineal]
+* 01 - Introducción a Cálculo - Primera Parte
+* 02 - Introducción a Cálculo - Segunda Parte
+* 03 - Introducción a Algebra Lineal
 
 ## Filosofia de este curso
 
