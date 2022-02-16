@@ -1,4 +1,4 @@
-<img  src='./logo.png' height='70px'>
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 ## Matemática para Data: una introducción
 

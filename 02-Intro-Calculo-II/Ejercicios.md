@@ -29,7 +29,7 @@
        f(x) = x si x>0
               -x si x<=0
        d- es continua en x=0
-       d- es derivable en x=0
+       e- es derivable en x=0
        f- es derivable con derivada negativa en x=1
     g- La derivada de b(l) = l^2 en l = 0 es positiva
     h- La derivada de k(l) = l^2 en l = 0 es 0
