@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![unaImagenConBoxShadow](../_src/assets/logo.png)
 
 ## Matemática para Data: una introducción
 
