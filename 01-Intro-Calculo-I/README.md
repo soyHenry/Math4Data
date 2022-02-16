@@ -1,4 +1,4 @@
-<img  src='../logo.png' height='70px'>
+![unaImagenConBoxShadow](../_src/assets/logo.png)
 
 # Introducción a Cálculo I
 

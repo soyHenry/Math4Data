@@ -1,4 +1,4 @@
-![unaImagenConBoxShadow](../_src/assets/logo.png)
+![unaImagenConBoxShadow](_src/assets/logo.png)
 
 ## Matemática para Data: una introducción
 
