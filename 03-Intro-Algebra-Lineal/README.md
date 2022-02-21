@@ -1,4 +1,4 @@
-<img  src='../logo.png' height='70px'>
+![unaImagenConBoxShadow](../_src/assets/logo.png)
 
 # Introducción a Algebra Lineal
 
@@ -35,29 +35,28 @@ La siguiente figura muestra un vector de dimensión 3 dibujado en el espacio, do
 refleja en cada uno de los 3 ejes:
 
 
-<img  src='./figuras/vector1.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/vector1.png)
 
 Los vectores se puede describir en base a sus componentes cartesianos, como vimos hasta ahora, 
 o mediante su **módulo** y **dirección**. 
 
-<img  src='./figuras/mod.png' height='150px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/mod.png)
 
 El módulo de un vector **v** se designa como **|v|** y se calcula como la raíz cuadrada de la suma
 de sus componentes al cuadrado:
 
-<img  src='./figuras/mod2.png' height='150px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/mod2.png)
 
 Se dice que un vector está normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una
 de sus componentes por el valor de su módulo (también llamado norma).
 
-<img  src='./figuras/dir1.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/dir1.png)
 
 Para calcular la dirección de un vector, se utiliza el ángulo que forma en el espacio con la horizontal. Teniendo en cuenta
 que un vector con origen en el origen de coordenadas es la hipotenusa de un triángulo rectángulo, podemos encontrar
 el ángulo que define su dirección como:
 
-
-<img  src='./figuras/dir2.png' height='250px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/dir2.png)
 
 Los vectores pueden **sumarse** entre sí, siempre y cuando tengan la misma dimensión simplemente sumando cada una de sus componentes.
 También puede multiplicarse por un escalar
@@ -66,9 +65,10 @@ También puede multiplicarse por un escalar
 Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve un poquito más compleja y lo mostramos a continuación.
 
 
-[comment]: <> (<img  src='./figuras/vector3.png' height='300px'>)
-
-[comment]: <> (<img  src='./figuras/vector4.png' height='500px'>)
+[comment]: <>
+![unaImagenConBoxShadow](../_src/assets/clase03/vector3.png)
+[comment]: <>
+![unaImagenConBoxShadow](../_src/assets/clase03/vector4.png)
 
 **Material adicional:**
 
@@ -82,15 +82,14 @@ Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve 
 ## Productos entre vectores
 
 Hay dos tipos de producto entre vectores con usos y significados bien diferentes. La primer diferencia, como su nombre lo indica,
-es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto cruz da como resultado un escalar y se obtiene
+es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto punto da como resultado un escalar y se obtiene
 como la suma del producto de las componentes de ambos vectores. El producto **vectorial** también llamado producto cruz da como resultado un vector
 y la manera de obtenerlo es un poco más compleja y no veremos en detalle.
 
 Otra manera de calcular el producto escalar es multiplicando entre sí la norma de cada vector y el coseno del ángulo
 que se forma entre ellos:
 
-<img  src='./figuras/pesc.png' height='250px'>
-
+![unaImagenConBoxShadow](../_src/assets/clase03/pesc.png)
 
 Esta interpretación es muy útil ya que nos permite saber rápidamente si dos vectores son paralelos (**cos(0)=1**), antiparalelos
 (**cos(180)=-1**) o perpendiculares (**cos(90)=0**).
@@ -122,7 +121,7 @@ por las dimensiones de mi vector ya descrito antes y 4 por cada línea que repre
 Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona;
 o sus columnas: en este caso cada columna representa diferentes valores de una característica física diferente.
 
-<img  src='./figuras/dim.png' height='100px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/dim.png)
 
 En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos
 (tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector
@@ -131,18 +130,27 @@ como para que justifique cada uno su existencia: queremos una matriz muy grande 
 
 Por ahora, es importante saber que se puede realizar operaciones entre matrices como entre vectores como la suma y la multiplicación.
 
-<img  src='./figuras/summ.png' height='400px'>
 
-<img  src='./figuras/prodm.png' height='400px'>
+![unaImagenConBoxShadow](../_src/assets/clase03/summ.png)
+
+![unaImagenConBoxShadow](../_src/assets/clase03/prodm.png)
 
 **Material adicional:**
 
 * Lectura https://economipedia.com/definiciones/operaciones-con-matrices.html#:~:text=Las%20operaciones%20con%20matrices%20son,la%20divisi%C3%B3n%20y%20la%20multiplicaci%C3%B3n.&text=La%20dimensi%C3%B3n%20de%20una%20matriz,la%20dimensi%C3%B3n%20de%20las%20columnas.
 
+## Homework
 
+Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios.md)
 
-
-
-
-
-
+<table class="hide" width="100%" style='table-layout:fixed;'>
+  <tr>
+    <td>
+      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
+        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
+        <br>
+        Hacé click acá para dejar tu feedback sobre esta clase.
+      </a>
+    </td>
+  </tr>
+</table>
