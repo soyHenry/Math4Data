@@ -150,7 +150,7 @@ https://www.superprof.es/apuntes/escolar/matematicas/algebra/log/ejercicios-de-l
 Uno de los conceptos más importante del análisis matemático, y sin dudas el más importante de este módulo, es el de **función**.
 Una **función** es una relación entre elementos de **entrada** y elementos de **salida**.
 También podemos pensar a una función como una fábrica a la cual entran elementos y salen otros.
-Por ejemplo, una fábrica de galletitas utiliza 10 gr de azúcar por paquete de 20 galletitas. Por cada gramo de azúcar que entra a la fábrica, sale una galletita y cada 20 galletitas, un paquete.
+Por ejemplo, una fábrica de galletitas utiliza 10 gr de azúcar por paquete de 20 galletitas. Por cada gramo de azúcar que entra a la fábrica, salen dos galletitas y cada 20 galletitas, un paquete.
 
 Esta relación se puede escribir en forma de tabla de la siguiente forma:
 
