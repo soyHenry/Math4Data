@@ -25,7 +25,7 @@ Según su naturaleza; existen los siguientes tipos de números
 
 Cada uno de estos grupos, o conjuntos, tienen infinitos elementos. Es decir, para cualquier número elegido siempre va a haber un número mayor (o menor en el caso de un negativo). El concepto de infinito es recurrente en matemática.
 
-Una fracción es una división entre dos números. En muchas aplicaciones se usa la nomenclatura XY donde X e Y son diferentes números Enteros. Por ejemplo, en vez de 0.5 se puede escribir 1/2 y se lee “un medio” o mundanamente “la mitad”. Mas en http://hnaranjo.com/blog/numeros-racionales/.
+Una fracción es una división entre dos números. En muchas aplicaciones se usa la nomenclatura X/Y donde X e Y son diferentes números Enteros. Por ejemplo, en vez de 0.5 se puede escribir 1/2 y se lee “un medio” o mundanamente “la mitad”. Mas en http://hnaranjo.com/blog/numeros-racionales/.
 
 Como puedes imaginar, la ventaja de los números racionales es que por más “largos” que sean (largos=dígitos después de la coma) siempre se pueden representar en su totalidad. En cambio, un número irracional no se puede representar totalmente en una cantidad finita de dígitos.
 
@@ -59,7 +59,7 @@ Usamos porcentajes para relacionar cualquier número a 100. Cuando decimos “el
 
 * fracciones:
 
-        30% es lo mismo que 30/100, entonces para calcular el 30% de 2000 hacemos 30/100* 2000 (regla para recordar, “de” en matemática se traduce a “*”) que es igual a 30/100 * 200 = 600
+        30% es lo mismo que 30/100, entonces para calcular el 30% de 2000 hacemos 30/100 * 2000 (regla para recordar, “de” en matemática se traduce a “*”) que es igual a 30/100 * 200 = 600
 
 * número decimal:
 
@@ -150,7 +150,7 @@ https://www.superprof.es/apuntes/escolar/matematicas/algebra/log/ejercicios-de-l
 Uno de los conceptos más importante del análisis matemático, y sin dudas el más importante de este módulo, es el de **función**.
 Una **función** es una relación entre elementos de **entrada** y elementos de **salida**.
 También podemos pensar a una función como una fábrica a la cual entran elementos y salen otros.
-Por ejemplo, una fábrica de galletitas utiliza 10 gr de azúcar por paquete de 20 galletitas. Por cada gramo de azúcar que entra a la fábrica, sale una galletita y cada 20 galletitas, un paquete.
+Por ejemplo, una fábrica de galletitas utiliza 10 gr de azúcar por paquete de 20 galletitas. Por cada gramo de azúcar que entra a la fábrica, salen dos galletitas y cada 20 galletitas, un paquete.
 
 Esta relación se puede escribir en forma de tabla de la siguiente forma:
 
