@@ -65,7 +65,7 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
     d- Cuántos grados mide el menor de los dos ángulos agudos?
         33.8°
     e- Y el mayor?
-        180° - 33.8° = 146.2°
+        180° - 33.8° - 90° = 56.2°
 
 **7)** Elige la opción correcta para cada caso.
 
