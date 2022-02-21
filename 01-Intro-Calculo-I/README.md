@@ -59,7 +59,7 @@ Usamos porcentajes para relacionar cualquier número a 100. Cuando decimos “el
 
 * fracciones:
 
-        30% es lo mismo que 30/100, entonces para calcular el 30% de 2000 hacemos 30/100* 2000 (regla para recordar, “de” en matemática se traduce a “*”) que es igual a 30/100 * 200 = 600
+        30% es lo mismo que 30/100, entonces para calcular el 30% de 2000 hacemos 30/100 * 2000 (regla para recordar, “de” en matemática se traduce a “*”) que es igual a 30/100 * 200 = 600
 
 * número decimal:
 
