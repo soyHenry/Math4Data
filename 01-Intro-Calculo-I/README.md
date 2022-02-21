@@ -1,5 +1,11 @@
 ![unaImagenConBoxShadow](../_src/assets/logo.png)
 
+## Grabación de la Clase 1
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/680093414" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 # Introducción a Cálculo I
 
 ## Temario
