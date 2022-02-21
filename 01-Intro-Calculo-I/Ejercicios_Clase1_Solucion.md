@@ -13,7 +13,7 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
 
-    a- 30% de 2000          1400 
+    a- 30% de 2000          600 
     b- 2000% de 30          600
     c- 10% de 150           15
     d- 25.5% de 27          6.9
