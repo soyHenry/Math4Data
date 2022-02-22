@@ -47,7 +47,7 @@
 
     a- f(x) = 2*x + 1, f'(2) = ?                2
     b- f(x) = x^2, f'(0) = ?                    0
-    c- f(x) = x^3 - 2, f'(2) = ?                0
+    c- f(x) = x^3 - 2, f'(0) = ?                0
 
     
 **5)** Responde V o F en cada caso:
