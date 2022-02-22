@@ -2,7 +2,6 @@
 
 # Introducción a Algebra Lineal
 
-
 ## Temario
 
 * Vector: dimensionalidad, dirección, módulo
@@ -31,43 +30,33 @@ Este vector tiene variables cuantitativas y cualitativas. Ya aprenderemos a trab
 con ambos tipos durante esta carrera, pero por ahora nos vamos a concentrar en vectores
 donde todos sus elementos son números reales.
 
-La siguiente figura muestra un vector de dimensión 3 dibujado en el espacio, donde cada una de sus componentes se
-refleja en cada uno de los 3 ejes:
-
+La siguiente figura muestra un vector de dimensión 3 dibujado en el espacio, donde cada una de sus componentes se refleja en cada uno de los 3 ejes:
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/vector1.png)
 
-Los vectores se puede describir en base a sus componentes cartesianos, como vimos hasta ahora, 
-o mediante su **módulo** y **dirección**. 
+Los vectores se puede describir en base a sus componentes cartesianos, como vimos hasta ahora, o mediante su **módulo** y **dirección**. 
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/mod.png)
 
-El módulo de un vector **v** se designa como **|v|** y se calcula como la raíz cuadrada de la suma
-de sus componentes al cuadrado:
+El módulo de un vector **v** se designa como **|v|** y se calcula como la raíz cuadrada de la suma de sus componentes al cuadrado:
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/mod2.png)
 
-Se dice que un vector está normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una
-de sus componentes por el valor de su módulo (también llamado norma).
+Se dice que un vector está normalizado cuando su módulo es igual a 1. Para normalizar un vector, hay que dividir cada una de sus componentes por el valor de su módulo (también llamado norma).
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/dir1.png)
 
-Para calcular la dirección de un vector, se utiliza el ángulo que forma en el espacio con la horizontal. Teniendo en cuenta
-que un vector con origen en el origen de coordenadas es la hipotenusa de un triángulo rectángulo, podemos encontrar
-el ángulo que define su dirección como:
+Para calcular la dirección de un vector, se utiliza el ángulo que forma en el espacio con la horizontal. Teniendo en cuenta que un vector con origen en el origen de coordenadas es la hipotenusa de un triángulo rectángulo, podemos encontrar el ángulo que define su dirección como:
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/dir2.png)
 
 Los vectores pueden **sumarse** entre sí, siempre y cuando tengan la misma dimensión simplemente sumando cada una de sus componentes.
-También puede multiplicarse por un escalar
-(es decir un número no vectorial) multiplicando el mismo por las componentes del vector. 
+También puede multiplicarse por un escalar (es decir un número no vectorial) multiplicando el mismo por las componentes del vector. 
 
 Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve un poquito más compleja y lo mostramos a continuación.
 
-
-[comment]: <>
 ![unaImagenConBoxShadow](../_src/assets/clase03/vector3.png)
-[comment]: <>
+
 ![unaImagenConBoxShadow](../_src/assets/clase03/vector4.png)
 
 **Material adicional:**
@@ -81,18 +70,14 @@ Sin embargo, cuando hablamos del producto de dos vectores la realidad se vuelve 
 
 ## Productos entre vectores
 
-Hay dos tipos de producto entre vectores con usos y significados bien diferentes. La primer diferencia, como su nombre lo indica,
-es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto punto da como resultado un escalar y se obtiene
-como la suma del producto de las componentes de ambos vectores. El producto **vectorial** también llamado producto cruz da como resultado un vector
-y la manera de obtenerlo es un poco más compleja y no veremos en detalle.
+Hay dos tipos de producto entre vectores con usos y significados bien diferentes. La primer diferencia, como su nombre lo indica, es el tipo de resultado que se obtiene. El producto **escalar** también conocido como producto punto da como resultado un escalar y se obtiene
+como la suma del producto de las componentes de ambos vectores. El producto **vectorial** también llamado producto cruz da como resultado un vector y la manera de obtenerlo es un poco más compleja y no veremos en detalle.
 
-Otra manera de calcular el producto escalar es multiplicando entre sí la norma de cada vector y el coseno del ángulo
-que se forma entre ellos:
+Otra manera de calcular el producto escalar es multiplicando entre sí la norma de cada vector y el coseno del ángulo que se forma entre ellos:
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/pesc.png)
 
-Esta interpretación es muy útil ya que nos permite saber rápidamente si dos vectores son paralelos (**cos(0)=1**), antiparalelos
-(**cos(180)=-1**) o perpendiculares (**cos(90)=0**).
+Esta interpretación es muy útil ya que nos permite saber rápidamente si dos vectores son paralelos (**cos(0)=1**), antiparalelos (**cos(180)=-1**) o perpendiculares (**cos(90)=0**).
 
 
 **Material adicional:**
@@ -101,8 +86,7 @@ Esta interpretación es muy útil ya que nos permite saber rápidamente si dos v
 
 ## Matrices
 
-Volviendo al ejemplo del principio, naturalmente podemos querer describir muchas personas a la vez.
-Para ello, podemos hacer:
+Volviendo al ejemplo del principio, naturalmente podemos querer describir muchas personas a la vez. Para ello, podemos hacer:
 
 **(s,e,a,cp,co)**
 
@@ -114,19 +98,13 @@ Para ello, podemos hacer:
 
 4.(X, 40, 1.80, marron, celeste)
 
+De esta manera, acabamos de utilizar una matriz de dimensión 5x4, es decir con 5 columnas determinadas por las dimensiones de mi vector ya descrito antes y 4 por cada línea que representa aquí una persona diferente.
 
-De esta manera, acabamos de utilizar una matriz de dimensión 5x4, es decir con 5 columnas determinadas
-por las dimensiones de mi vector ya descrito antes y 4 por cada línea que representa aquí una persona diferente.
-
-Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona;
-o sus columnas: en este caso cada columna representa diferentes valores de una característica física diferente.
+Una matriz se puede entender entonces como un conjunto de vectores que forman sus filas: en este caso cada fila es un vector que describe una persona; o sus columnas: en este caso cada columna representa diferentes valores de una característica física diferente.
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/dim.png)
 
-En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos
-(tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector
-de *features* como en este caso. Más adelante nos van a interesar cosas como si los vectores de una matriz son lo suficientemente diferentes entre sí
-como para que justifique cada uno su existencia: queremos una matriz muy grande si muchos de sus vectores son el mismo o muy parecido o podemos "resumirla"?
+En ciencia de datos usamos matrices o estructuras similares constantemente ya sea simplemente para guardar datos (tablas) o para describir y modelizar fenómenos donde cada individuo se describe con un vector de características o vector de *features* como en este caso. Más adelante nos van a interesar cosas como si los vectores de una matriz son lo suficientemente diferentes entre sí como para que justifique cada uno su existencia: queremos una matriz muy grande si muchos de sus vectores son el mismo o muy parecido o podemos "resumirla"?
 
 Por ahora, es importante saber que se puede realizar operaciones entre matrices como entre vectores como la suma y la multiplicación.
 

@@ -1,5 +1,11 @@
 ![unaImagenConBoxShadow](../_src/assets/logo.png)
 
+## Grabación de la Clase 2
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/680566535" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 # Introducción a Cálculo I
 
 ## Temario
@@ -339,7 +345,7 @@ Ahora bien, podemos imaginar que rotamos la misma parábola alrededor del eje ve
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/02-Intro-Calculo-II/Ejercicios.md)
+Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/02-Intro-Calculo-II/Ejercicios_Clase2_Solucion.md)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
