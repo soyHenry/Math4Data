@@ -1,5 +1,11 @@
 ![unaImagenConBoxShadow](../_src/assets/logo.png)
 
+## Grabación de la Clase 3
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/681007701" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 # Introducción a Algebra Lineal
 
 ## Temario
@@ -119,7 +125,7 @@ Por ahora, es importante saber que se puede realizar operaciones entre matrices 
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios.md)
+Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios_Clase3_Solucion.md)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
