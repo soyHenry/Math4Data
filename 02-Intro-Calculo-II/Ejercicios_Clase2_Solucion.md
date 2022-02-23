@@ -58,6 +58,6 @@
     a- Tiene un máximo en x=1                                   Falso
     b- Tiene un máximo en x=-1                                  Verdadero
     c- Es continua en x=0                                       Falso
-    d- Tiene una discontinuidad inevitable finita en x=1        Verdadero
+    d- Tiene una discontinuidad inevitable finita en x=0        Verdadero
     e- Tiene un mínimo en x=-1                                  Falso
     f- f'(4)>0                                                  Verdadero

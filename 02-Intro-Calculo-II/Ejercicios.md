@@ -50,6 +50,6 @@
     a- Tiene un máximo en x=1
     b- Tiene un máximo en x=-1
     c- Es continua en x=0
-    d- Tiene una discontinuidad inevitable finita en x=1
+    d- Tiene una discontinuidad inevitable finita en x=0
     e- Tiene un mínimo en x=-1
     f- f'(4)>0
