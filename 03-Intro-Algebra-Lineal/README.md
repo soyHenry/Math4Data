@@ -119,6 +119,9 @@ Por ahora, es importante saber que se puede realizar operaciones entre matrices 
 
 ![unaImagenConBoxShadow](../_src/assets/clase03/prodm.png)
 
+![unaImagenConBoxShadow](../_src/assets/clase03/Multiplicacion-de-matrices-ejemplo-1.png)
+
+
 **Material adicional:**
 
 * Lectura https://economipedia.com/definiciones/operaciones-con-matrices.html#:~:text=Las%20operaciones%20con%20matrices%20son,la%20divisi%C3%B3n%20y%20la%20multiplicaci%C3%B3n.&text=La%20dimensi%C3%B3n%20de%20una%20matriz,la%20dimensi%C3%B3n%20de%20las%20columnas.
