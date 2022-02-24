@@ -1,9 +1,9 @@
 {
-  "lessonTitle": "Introducción al Álgebra Lineal",
-  "permalink": "/Clase_Tres/",
+  "lessonTitle": "Repaso",
+  "permalink": "/Clase_Cuatro/",
   "eleventyNavigation": {
-    "key": "Clase 3",
-    "order": 2
+    "key": "Clase 4",
+    "order": 4
   },
-  "feedbackID": "03 - Introducción Algebra Lineal"
+  "feedbackID": "04 - Repaso"
 }
