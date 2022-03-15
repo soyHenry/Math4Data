@@ -2,8 +2,9 @@
 
 ## Grabación de la Clase 2
 
-<iframe src="https://player.vimeo.com/video/688590065?h=833661e909" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
+ <div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/688590065?h=833661e909" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 # Introducción a Cálculo I
 
