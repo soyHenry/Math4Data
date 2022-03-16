@@ -3,7 +3,7 @@
 ## Grabación de la Clase 3
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/681007701" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/688918154?h=73f8ac5c75" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 # Introducción a Algebra Lineal
