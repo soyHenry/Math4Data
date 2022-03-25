@@ -1,1 +1,1 @@
-module.exports = 'lesson.njk';
+module.exports = 'lesson.njk'
