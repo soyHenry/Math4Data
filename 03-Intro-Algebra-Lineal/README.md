@@ -130,6 +130,8 @@ Por ahora, es importante saber que se puede realizar operaciones entre matrices 
 
 Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Math4Data/blob/main/03-Intro-Algebra-Lineal/Ejercicios_Clase3_Solucion.md)
 
+Si tienes dudas sobre este tema, puedes consultarlas en el canal #math de Slack
+
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
