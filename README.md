@@ -1,7 +1,9 @@
 ![unaImagenConBoxShadow](_src/assets/logo.png)
 
 ¡Hola!  Bienvenid@ al Prep Course de Matemática para la carrera de Data Science. 
+
 Para poder avanzar con este contenido debes haber estudiado previamente el material de Python que se encuentra en data.prep.soyhenry.com. 
+
 ¡Muchos éxitos!
 
 ## Matemática para Data: Temario
