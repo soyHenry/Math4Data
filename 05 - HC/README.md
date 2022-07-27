@@ -1,6 +1,6 @@
 ![unaImagenConBoxShadow](../_src/assets/logo.png)
 
-## Instrucciones para realizar el Hnery Challenge
+## Instrucciones para realizar el Henry Challenge
 
 
 <div class="iframeContainer">
