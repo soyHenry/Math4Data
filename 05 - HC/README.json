@@ -1,0 +1,9 @@
+{
+  "lessonTitle": "Henry Chalenge",
+  "permalink": "/HenryChallenge/",
+  "eleventyNavigation": {
+    "key": "Henry Challenge",
+    "order": 5
+  },
+  "feedbackID": "05 - Henry Challenge"
+}
