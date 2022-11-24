@@ -4,7 +4,7 @@
 
 Para poder avanzar con este contenido debes haber estudiado previamente el material de Python que se encuentra en data.prep.soyhenry.com. 
 
-¡Muchos éxitos!
+¡Muchos éxitos 2!
 
 ## Matemática para Data: Temario
 
