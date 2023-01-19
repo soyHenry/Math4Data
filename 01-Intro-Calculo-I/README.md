@@ -6,6 +6,12 @@
   <iframe src="https://player.vimeo.com/video/688068967?h=f4cccbc2cf" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender conceptos básicos de Geometría y Trigonometría
+- Comprender el concepto de Funciones (Dominio e imágen)
+- Conocer los componentes de la ecuación de una recta
+
 # Introducción a Cálculo I
 
 ## Temario

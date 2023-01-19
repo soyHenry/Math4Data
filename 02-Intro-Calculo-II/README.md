@@ -6,7 +6,11 @@
   <iframe src="https://player.vimeo.com/video/688590065?h=833661e909" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-# Introducción a Cálculo I
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender los conceptos de Continuidad y Derivabilidad
+
+# Introducción a Cálculo II
 
 ## Temario
 

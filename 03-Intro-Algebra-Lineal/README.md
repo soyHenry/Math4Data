@@ -6,6 +6,11 @@
   <iframe src="https://player.vimeo.com/video/688918154?h=73f8ac5c75" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender el concepto de Vector
+- Comprender el concepto de Matríz
+
 # Introducción a Algebra Lineal
 
 ## Temario
