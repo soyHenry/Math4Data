@@ -36,6 +36,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </iframe>
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHV5X0V6Y9"><script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LHV5X0V6Y9');
+</script>
 
 ## Grabación de la Clase 2
 
@@ -43,7 +51,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <iframe src="https://player.vimeo.com/video/688590065?h=833661e909" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-# Introducción a Cálculo I
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender los conceptos de Continuidad y Derivabilidad
+
+# Introducción a Cálculo II
 
 ## Temario
 

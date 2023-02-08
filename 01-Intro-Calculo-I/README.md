@@ -36,12 +36,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </iframe>
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHV5X0V6Y9"><script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LHV5X0V6Y9');
+</script>
 
 ## Grabación de la Clase 1
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/688068967?h=f4cccbc2cf" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
+
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender conceptos básicos de Geometría y Trigonometría
+- Comprender el concepto de Funciones (Dominio e imágen)
+- Conocer los componentes de la ecuación de una recta
 
 # Introducción a Cálculo I
 

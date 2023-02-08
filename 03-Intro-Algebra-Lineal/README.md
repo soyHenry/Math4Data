@@ -36,12 +36,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </iframe>
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHV5X0V6Y9"><script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LHV5X0V6Y9');
+</script>
 
 ## Grabación de la Clase 3
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/688918154?h=73f8ac5c75" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
+
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender el concepto de Vector
+- Comprender el concepto de Matríz
 
 # Introducción a Algebra Lineal
 
