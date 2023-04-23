@@ -4,11 +4,11 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
 
     a- 198          N
     b- 4            N
-    c- -3.1         Ra
-    d- -1/4         Ra
+    c- -3.1         Q
+    d- -1/4         Q
     e- 10.0         N
     f- 2*e          I
-    g- -123.0004    Ra
+    g- -123.0004    Q
 
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
@@ -17,15 +17,15 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
     b- 2000% de 30          600
     c- 10% de 150           15
     d- 25.5% de 27          6.9
-    e- 25.5% de 0.9         0.2
+    e- 25.5% de 0.9         0.2295150
 
 **3)** Calcula la relación porcentual entre los siguientes números y redondea la respuesta a su PRIMER número decimal. Ej: X% de 20 es 2 -> R: 10
 
-    a- X% de 150 es 50          33.3
+    a- X% de 150 es 50          33.3%
     b- X% de 4.0 es 100.0       2500
-    c- X% de 16/4 es 2          50
-    d- X% de 10*Pi es 2*Pi      20
-    e- X% de 3500 es 2500       71
+    c- X% de 16/4 es 2          50%
+    d- X% de 10*Pi es 2*Pi      20%
+    e- X% de 3500 es 2500       71.4%
 
 **4)** De shopping compré varias prendas por un valor de 350$. Había una promo del 30% sobre la cual se aplico luego
 un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la respuesta a su PRIMER número decimal.
